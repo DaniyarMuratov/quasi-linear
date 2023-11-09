@@ -1,0 +1,2791 @@
+date,market,commodity,price
+2005-11-15,Nur-Sultan,Potatoes,40.0
+2005-11-15,Nur-Sultan,Meat (beef),403.0
+2005-11-15,Nur-Sultan,Oil (sunflower),184.0
+2005-11-15,Almaty,Potatoes,49.0
+2005-11-15,Almaty,Meat (beef),413.0
+2005-11-15,Almaty,Milk,66.0
+2005-11-15,Almaty,Oil (sunflower),166.0
+2005-11-15,Kostanay,Potatoes,34.0
+2005-11-15,Kostanay,Wheat flour (first grade),39.0
+2005-11-15,Kostanay,Meat (beef),380.0
+2005-11-15,Kostanay,Milk,50.0
+2005-11-15,Kostanay,Oil (sunflower),173.0
+2005-11-15,Aktau,Potatoes,55.0
+2005-11-15,Aktau,Wheat flour (first grade),50.0
+2005-11-15,Aktau,Meat (beef),534.0
+2005-12-15,Nur-Sultan,Potatoes,42.0
+2005-12-15,Nur-Sultan,Meat (beef),403.0
+2005-12-15,Nur-Sultan,Milk,61.0
+2005-12-15,Nur-Sultan,Oil (sunflower),184.0
+2005-12-15,Almaty,Potatoes,53.0
+2005-12-15,Almaty,Meat (beef),418.0
+2005-12-15,Almaty,Milk,72.0
+2005-12-15,Almaty,Oil (sunflower),167.0
+2005-12-15,Kostanay,Potatoes,34.0
+2005-12-15,Kostanay,Meat (beef),380.0
+2005-12-15,Kostanay,Oil (sunflower),173.0
+2005-12-15,Aktau,Potatoes,55.0
+2005-12-15,Aktau,Wheat flour (first grade),54.0
+2005-12-15,Aktau,Meat (beef),534.0
+2005-12-15,Aktau,Oil (sunflower),192.0
+2006-01-15,Nur-Sultan,Potatoes,48.0
+2006-01-15,Nur-Sultan,Wheat flour (first grade),58.0
+2006-01-15,Nur-Sultan,Meat (beef),487.0
+2006-01-15,Nur-Sultan,Milk,65.0
+2006-01-15,Nur-Sultan,Oil (sunflower),184.0
+2006-01-15,Almaty,Potatoes,63.0
+2006-01-15,Almaty,Wheat flour (first grade),54.0
+2006-01-15,Almaty,Meat (beef),430.0
+2006-01-15,Almaty,Milk,76.0
+2006-01-15,Almaty,Oil (sunflower),170.0
+2006-01-15,Kostanay,Potatoes,35.0
+2006-01-15,Kostanay,Wheat flour (first grade),39.0
+2006-01-15,Kostanay,Meat (beef),380.0
+2006-01-15,Kostanay,Milk,53.0
+2006-01-15,Aktau,Potatoes,60.0
+2006-01-15,Aktau,Wheat flour (first grade),54.0
+2006-01-15,Aktau,Meat (beef),535.0
+2006-01-15,Aktau,Oil (sunflower),192.0
+2006-02-15,Nur-Sultan,Potatoes,59.0
+2006-02-15,Nur-Sultan,Meat (beef),487.0
+2006-02-15,Nur-Sultan,Milk,68.0
+2006-02-15,Nur-Sultan,Oil (sunflower),184.0
+2006-02-15,Almaty,Potatoes,73.0
+2006-02-15,Almaty,Wheat flour (first grade),54.0
+2006-02-15,Almaty,Meat (beef),430.0
+2006-02-15,Almaty,Milk,78.0
+2006-02-15,Almaty,Oil (sunflower),170.0
+2006-02-15,Kostanay,Potatoes,48.0
+2006-02-15,Kostanay,Meat (beef),380.0
+2006-02-15,Kostanay,Milk,55.0
+2006-02-15,Aktau,Potatoes,65.0
+2006-02-15,Aktau,Wheat flour (first grade),54.0
+2006-02-15,Aktau,Meat (beef),535.0
+2006-02-15,Aktau,Oil (sunflower),195.0
+2006-03-15,Nur-Sultan,Potatoes,63.0
+2006-03-15,Nur-Sultan,Wheat flour (first grade),58.0
+2006-03-15,Nur-Sultan,Meat (beef),487.0
+2006-03-15,Nur-Sultan,Milk,68.0
+2006-03-15,Nur-Sultan,Oil (sunflower),184.0
+2006-03-15,Almaty,Potatoes,77.0
+2006-03-15,Almaty,Wheat flour (first grade),54.0
+2006-03-15,Almaty,Meat (beef),423.0
+2006-03-15,Almaty,Milk,76.0
+2006-03-15,Almaty,Oil (sunflower),171.0
+2006-03-15,Kostanay,Potatoes,53.0
+2006-03-15,Kostanay,Wheat flour (first grade),39.0
+2006-03-15,Kostanay,Meat (beef),380.0
+2006-03-15,Kostanay,Milk,55.0
+2006-03-15,Aktau,Potatoes,65.0
+2006-03-15,Aktau,Wheat flour (first grade),54.0
+2006-03-15,Aktau,Meat (beef),535.0
+2006-04-15,Nur-Sultan,Potatoes,65.0
+2006-04-15,Nur-Sultan,Meat (beef),487.0
+2006-04-15,Nur-Sultan,Milk,60.0
+2006-04-15,Nur-Sultan,Oil (sunflower),184.0
+2006-04-15,Almaty,Potatoes,77.0
+2006-04-15,Almaty,Wheat flour (first grade),54.0
+2006-04-15,Almaty,Meat (beef),428.0
+2006-04-15,Almaty,Milk,74.0
+2006-04-15,Almaty,Oil (sunflower),171.0
+2006-04-15,Kostanay,Potatoes,53.0
+2006-04-15,Kostanay,Meat (beef),373.0
+2006-04-15,Kostanay,Milk,50.0
+2006-04-15,Aktau,Potatoes,73.0
+2006-04-15,Aktau,Wheat flour (first grade),54.0
+2006-04-15,Aktau,Meat (beef),549.0
+2006-05-15,Nur-Sultan,Potatoes,69.0
+2006-05-15,Nur-Sultan,Wheat flour (first grade),58.0
+2006-05-15,Nur-Sultan,Meat (beef),487.0
+2006-05-15,Nur-Sultan,Milk,59.0
+2006-05-15,Nur-Sultan,Oil (sunflower),184.0
+2006-05-15,Almaty,Potatoes,84.0
+2006-05-15,Almaty,Wheat flour (first grade),54.0
+2006-05-15,Almaty,Meat (beef),457.0
+2006-05-15,Almaty,Milk,72.0
+2006-05-15,Kostanay,Potatoes,55.0
+2006-05-15,Kostanay,Meat (beef),373.0
+2006-05-15,Kostanay,Milk,50.0
+2006-05-15,Kostanay,Oil (sunflower),173.0
+2006-05-15,Aktau,Potatoes,73.0
+2006-05-15,Aktau,Meat (beef),535.0
+2006-06-15,Nur-Sultan,Potatoes,73.0
+2006-06-15,Nur-Sultan,Wheat flour (first grade),58.0
+2006-06-15,Nur-Sultan,Meat (beef),487.0
+2006-06-15,Nur-Sultan,Milk,59.0
+2006-06-15,Nur-Sultan,Oil (sunflower),184.0
+2006-06-15,Almaty,Potatoes,93.0
+2006-06-15,Almaty,Wheat flour (first grade),54.0
+2006-06-15,Almaty,Meat (beef),471.0
+2006-06-15,Almaty,Milk,65.0
+2006-06-15,Kostanay,Potatoes,55.0
+2006-06-15,Kostanay,Meat (beef),373.0
+2006-06-15,Kostanay,Milk,47.0
+2006-06-15,Kostanay,Oil (sunflower),172.0
+2006-06-15,Aktau,Potatoes,73.0
+2006-06-15,Aktau,Wheat flour (first grade),56.0
+2006-06-15,Aktau,Meat (beef),505.0
+2006-06-15,Aktau,Oil (sunflower),186.0
+2006-07-15,Nur-Sultan,Potatoes,73.0
+2006-07-15,Nur-Sultan,Wheat flour (first grade),58.0
+2006-07-15,Nur-Sultan,Meat (beef),509.0
+2006-07-15,Nur-Sultan,Milk,58.0
+2006-07-15,Almaty,Potatoes,77.0
+2006-07-15,Almaty,Meat (beef),471.0
+2006-07-15,Almaty,Milk,65.0
+2006-07-15,Almaty,Oil (sunflower),168.0
+2006-07-15,Kostanay,Potatoes,55.0
+2006-07-15,Kostanay,Wheat flour (first grade),39.0
+2006-07-15,Kostanay,Meat (beef),373.0
+2006-07-15,Kostanay,Milk,45.0
+2006-07-15,Kostanay,Oil (sunflower),170.0
+2006-07-15,Aktau,Potatoes,69.0
+2006-07-15,Aktau,Meat (beef),505.0
+2006-07-15,Aktau,Oil (sunflower),186.0
+2006-08-15,Nur-Sultan,Potatoes,73.0
+2006-08-15,Nur-Sultan,Meat (beef),509.0
+2006-08-15,Nur-Sultan,Milk,58.0
+2006-08-15,Nur-Sultan,Oil (sunflower),184.0
+2006-08-15,Almaty,Potatoes,83.0
+2006-08-15,Almaty,Meat (beef),471.0
+2006-08-15,Almaty,Milk,65.0
+2006-08-15,Almaty,Oil (sunflower),168.0
+2006-08-15,Kostanay,Potatoes,51.0
+2006-08-15,Kostanay,Meat (beef),373.0
+2006-08-15,Kostanay,Milk,45.0
+2006-08-15,Kostanay,Oil (sunflower),168.0
+2006-08-15,Aktau,Potatoes,64.0
+2006-08-15,Aktau,Meat (beef),505.0
+2006-08-15,Aktau,Oil (sunflower),186.0
+2006-09-15,Nur-Sultan,Potatoes,57.0
+2006-09-15,Nur-Sultan,Meat (beef),509.0
+2006-09-15,Nur-Sultan,Milk,60.0
+2006-09-15,Nur-Sultan,Oil (sunflower),184.0
+2006-09-15,Almaty,Potatoes,71.0
+2006-09-15,Almaty,Meat (beef),471.0
+2006-09-15,Almaty,Milk,70.0
+2006-09-15,Almaty,Oil (sunflower),168.0
+2006-09-15,Kostanay,Potatoes,39.0
+2006-09-15,Kostanay,Meat (beef),373.0
+2006-09-15,Kostanay,Milk,48.0
+2006-09-15,Aktau,Potatoes,69.0
+2006-09-15,Aktau,Meat (beef),505.0
+2006-09-15,Aktau,Oil (sunflower),186.0
+2006-10-15,Nur-Sultan,Potatoes,57.0
+2006-10-15,Nur-Sultan,Meat (beef),509.0
+2006-10-15,Nur-Sultan,Milk,61.0
+2006-10-15,Nur-Sultan,Oil (sunflower),184.0
+2006-10-15,Almaty,Potatoes,68.0
+2006-10-15,Almaty,Meat (beef),474.0
+2006-10-15,Almaty,Milk,73.0
+2006-10-15,Almaty,Oil (sunflower),168.0
+2006-10-15,Kostanay,Potatoes,40.0
+2006-10-15,Kostanay,Wheat flour (first grade),39.0
+2006-10-15,Kostanay,Meat (beef),365.0
+2006-10-15,Kostanay,Milk,48.0
+2006-10-15,Kostanay,Oil (sunflower),168.0
+2006-10-15,Aktau,Potatoes,69.0
+2006-10-15,Aktau,Meat (beef),505.0
+2006-11-15,Nur-Sultan,Potatoes,62.0
+2006-11-15,Nur-Sultan,Meat (beef),509.0
+2006-11-15,Nur-Sultan,Milk,61.0
+2006-11-15,Nur-Sultan,Oil (sunflower),184.0
+2006-11-15,Almaty,Potatoes,75.0
+2006-11-15,Almaty,Meat (beef),480.0
+2006-11-15,Almaty,Milk,78.0
+2006-11-15,Kostanay,Potatoes,41.0
+2006-11-15,Kostanay,Wheat flour (first grade),39.0
+2006-11-15,Kostanay,Meat (beef),365.0
+2006-11-15,Kostanay,Milk,48.0
+2006-11-15,Kostanay,Oil (sunflower),168.0
+2006-11-15,Aktau,Potatoes,69.0
+2006-12-15,Nur-Sultan,Potatoes,69.0
+2006-12-15,Nur-Sultan,Meat (beef),506.0
+2006-12-15,Nur-Sultan,Milk,63.0
+2006-12-15,Almaty,Potatoes,78.0
+2006-12-15,Almaty,Meat (beef),491.0
+2006-12-15,Almaty,Milk,81.0
+2006-12-15,Almaty,Oil (sunflower),165.0
+2006-12-15,Kostanay,Potatoes,52.0
+2006-12-15,Kostanay,Meat (beef),365.0
+2006-12-15,Kostanay,Milk,51.0
+2006-12-15,Kostanay,Oil (sunflower),168.0
+2006-12-15,Aktau,Potatoes,69.0
+2006-12-15,Aktau,Wheat flour (first grade),54.0
+2006-12-15,Aktau,Meat (beef),505.0
+2006-12-15,Aktau,Oil (sunflower),186.0
+2007-01-15,Nur-Sultan,Potatoes,76.0
+2007-01-15,Nur-Sultan,Meat (beef),511.0
+2007-01-15,Nur-Sultan,Milk,68.0
+2007-01-15,Nur-Sultan,Oil (sunflower),184.0
+2007-01-15,Almaty,Potatoes,86.0
+2007-01-15,Almaty,Wheat flour (first grade),52.0
+2007-01-15,Almaty,Meat (beef),507.0
+2007-01-15,Almaty,Milk,83.0
+2007-01-15,Almaty,Oil (sunflower),165.0
+2007-01-15,Kostanay,Potatoes,54.0
+2007-01-15,Kostanay,Wheat flour (first grade),39.0
+2007-01-15,Kostanay,Meat (beef),365.0
+2007-01-15,Kostanay,Milk,54.0
+2007-01-15,Aktau,Potatoes,69.0
+2007-01-15,Aktau,Wheat flour (first grade),54.0
+2007-01-15,Aktau,Meat (beef),510.0
+2007-01-15,Aktau,Oil (sunflower),186.0
+2007-02-15,Nur-Sultan,Potatoes,78.0
+2007-02-15,Nur-Sultan,Meat (beef),511.0
+2007-02-15,Nur-Sultan,Milk,71.0
+2007-02-15,Nur-Sultan,Oil (sunflower),184.0
+2007-02-15,Almaty,Potatoes,94.0
+2007-02-15,Almaty,Wheat flour (first grade),53.0
+2007-02-15,Almaty,Meat (beef),507.0
+2007-02-15,Almaty,Milk,85.0
+2007-02-15,Almaty,Oil (sunflower),165.0
+2007-02-15,Kostanay,Potatoes,57.0
+2007-02-15,Kostanay,Wheat flour (first grade),39.0
+2007-02-15,Kostanay,Meat (beef),365.0
+2007-02-15,Kostanay,Milk,56.0
+2007-02-15,Kostanay,Oil (sunflower),168.0
+2007-02-15,Aktau,Potatoes,75.0
+2007-02-15,Aktau,Wheat flour (first grade),56.0
+2007-02-15,Aktau,Meat (beef),510.0
+2007-02-15,Aktau,Oil (sunflower),188.0
+2007-03-15,Nur-Sultan,Potatoes,80.0
+2007-03-15,Nur-Sultan,Meat (beef),511.0
+2007-03-15,Nur-Sultan,Milk,75.0
+2007-03-15,Nur-Sultan,Oil (sunflower),184.0
+2007-03-15,Almaty,Potatoes,94.0
+2007-03-15,Almaty,Wheat flour (first grade),55.0
+2007-03-15,Almaty,Meat (beef),510.0
+2007-03-15,Almaty,Milk,85.0
+2007-03-15,Almaty,Oil (sunflower),165.0
+2007-03-15,Kostanay,Potatoes,59.0
+2007-03-15,Kostanay,Wheat flour (first grade),39.0
+2007-03-15,Kostanay,Meat (beef),365.0
+2007-03-15,Kostanay,Milk,56.0
+2007-03-15,Aktau,Potatoes,75.0
+2007-03-15,Aktau,Wheat flour (first grade),56.0
+2007-03-15,Aktau,Meat (beef),510.0
+2007-04-15,Nur-Sultan,Potatoes,84.0
+2007-04-15,Nur-Sultan,Meat (beef),511.0
+2007-04-15,Nur-Sultan,Milk,75.0
+2007-04-15,Nur-Sultan,Oil (sunflower),184.0
+2007-04-15,Almaty,Potatoes,90.0
+2007-04-15,Almaty,Wheat flour (first grade),56.0
+2007-04-15,Almaty,Meat (beef),510.0
+2007-04-15,Almaty,Milk,83.0
+2007-04-15,Almaty,Oil (sunflower),165.0
+2007-04-15,Kostanay,Potatoes,61.0
+2007-04-15,Kostanay,Wheat flour (first grade),39.0
+2007-04-15,Kostanay,Meat (beef),365.0
+2007-04-15,Kostanay,Oil (sunflower),168.0
+2007-04-15,Aktau,Potatoes,78.0
+2007-04-15,Aktau,Wheat flour (first grade),56.0
+2007-04-15,Aktau,Meat (beef),522.0
+2007-05-15,Nur-Sultan,Potatoes,84.0
+2007-05-15,Nur-Sultan,Meat (beef),549.0
+2007-05-15,Nur-Sultan,Milk,75.0
+2007-05-15,Nur-Sultan,Oil (sunflower),184.0
+2007-05-15,Almaty,Potatoes,100.0
+2007-05-15,Almaty,Wheat flour (first grade),56.0
+2007-05-15,Almaty,Meat (beef),537.0
+2007-05-15,Almaty,Milk,82.0
+2007-05-15,Almaty,Oil (sunflower),166.0
+2007-05-15,Kostanay,Potatoes,63.0
+2007-05-15,Kostanay,Meat (beef),378.0
+2007-05-15,Kostanay,Milk,53.0
+2007-05-15,Kostanay,Oil (sunflower),168.0
+2007-05-15,Aktau,Potatoes,81.0
+2007-05-15,Aktau,Wheat flour (first grade),56.0
+2007-05-15,Aktau,Meat (beef),522.0
+2007-05-15,Aktau,Oil (sunflower),188.0
+2007-06-15,Nur-Sultan,Potatoes,91.0
+2007-06-15,Nur-Sultan,Meat (beef),549.0
+2007-06-15,Nur-Sultan,Milk,67.0
+2007-06-15,Nur-Sultan,Oil (sunflower),184.0
+2007-06-15,Almaty,Potatoes,103.0
+2007-06-15,Almaty,Wheat flour (first grade),56.0
+2007-06-15,Almaty,Meat (beef),553.0
+2007-06-15,Almaty,Milk,82.0
+2007-06-15,Almaty,Oil (sunflower),167.0
+2007-06-15,Kostanay,Potatoes,65.0
+2007-06-15,Kostanay,Meat (beef),400.0
+2007-06-15,Kostanay,Milk,50.0
+2007-06-15,Kostanay,Oil (sunflower),168.0
+2007-06-15,Aktau,Potatoes,90.0
+2007-06-15,Aktau,Wheat flour (first grade),56.0
+2007-06-15,Aktau,Meat (beef),596.0
+2007-06-15,Aktau,Oil (sunflower),188.0
+2007-07-15,Nur-Sultan,Potatoes,86.0
+2007-07-15,Nur-Sultan,Wheat flour (first grade),61.0
+2007-07-15,Nur-Sultan,Meat (beef),636.0
+2007-07-15,Nur-Sultan,Milk,67.0
+2007-07-15,Nur-Sultan,Oil (sunflower),184.0
+2007-07-15,Almaty,Potatoes,92.0
+2007-07-15,Almaty,Meat (beef),580.0
+2007-07-15,Almaty,Milk,82.0
+2007-07-15,Almaty,Oil (sunflower),168.0
+2007-07-15,Kostanay,Potatoes,65.0
+2007-07-15,Kostanay,Meat (beef),418.0
+2007-07-15,Kostanay,Milk,50.0
+2007-07-15,Aktau,Potatoes,84.0
+2007-07-15,Aktau,Meat (beef),596.0
+2007-07-15,Aktau,Oil (sunflower),188.0
+2007-08-15,Nur-Sultan,Potatoes,72.0
+2007-08-15,Nur-Sultan,Meat (beef),624.0
+2007-08-15,Nur-Sultan,Milk,71.0
+2007-08-15,Nur-Sultan,Oil (sunflower),184.0
+2007-08-15,Almaty,Potatoes,84.0
+2007-08-15,Almaty,Meat (beef),606.0
+2007-08-15,Almaty,Milk,82.0
+2007-08-15,Almaty,Oil (sunflower),168.0
+2007-08-15,Kostanay,Potatoes,60.0
+2007-08-15,Kostanay,Wheat flour (first grade),43.0
+2007-08-15,Kostanay,Meat (beef),418.0
+2007-08-15,Kostanay,Milk,50.0
+2007-08-15,Aktau,Potatoes,88.0
+2007-08-15,Aktau,Wheat flour (first grade),56.0
+2007-08-15,Aktau,Meat (beef),596.0
+2007-08-15,Aktau,Oil (sunflower),188.0
+2007-09-15,Nur-Sultan,Potatoes,64.0
+2007-09-15,Nur-Sultan,Wheat flour (first grade),74.0
+2007-09-15,Nur-Sultan,Meat (beef),624.0
+2007-09-15,Nur-Sultan,Milk,73.0
+2007-09-15,Nur-Sultan,Oil (sunflower),218.0
+2007-09-15,Almaty,Potatoes,73.0
+2007-09-15,Almaty,Meat (beef),637.0
+2007-09-15,Almaty,Milk,94.0
+2007-09-15,Almaty,Oil (sunflower),218.0
+2007-09-15,Kostanay,Potatoes,49.0
+2007-09-15,Kostanay,Wheat flour (first grade),46.0
+2007-09-15,Kostanay,Meat (beef),418.0
+2007-09-15,Aktau,Potatoes,82.0
+2007-09-15,Aktau,Wheat flour (first grade),60.0
+2007-09-15,Aktau,Meat (beef),596.0
+2007-09-15,Aktau,Oil (sunflower),188.0
+2007-10-15,Nur-Sultan,Potatoes,70.0
+2007-10-15,Nur-Sultan,Wheat flour (first grade),83.0
+2007-10-15,Nur-Sultan,Meat (beef),624.0
+2007-10-15,Nur-Sultan,Oil (sunflower),343.0
+2007-10-15,Almaty,Potatoes,74.0
+2007-10-15,Almaty,Meat (beef),690.0
+2007-10-15,Almaty,Milk,105.0
+2007-10-15,Kostanay,Potatoes,50.0
+2007-10-15,Kostanay,Wheat flour (first grade),58.0
+2007-10-15,Kostanay,Meat (beef),420.0
+2007-10-15,Kostanay,Milk,53.0
+2007-10-15,Kostanay,Oil (sunflower),230.0
+2007-10-15,Aktau,Potatoes,81.0
+2007-10-15,Aktau,Wheat flour (first grade),76.0
+2007-10-15,Aktau,Meat (beef),596.0
+2007-11-15,Nur-Sultan,Potatoes,74.0
+2007-11-15,Nur-Sultan,Meat (beef),624.0
+2007-11-15,Nur-Sultan,Milk,83.0
+2007-11-15,Nur-Sultan,Oil (sunflower),395.0
+2007-11-15,Almaty,Potatoes,81.0
+2007-11-15,Almaty,Wheat flour (first grade),100.0
+2007-11-15,Almaty,Meat (beef),765.0
+2007-11-15,Almaty,Milk,115.0
+2007-11-15,Kostanay,Potatoes,55.0
+2007-11-15,Kostanay,Meat (beef),440.0
+2007-11-15,Kostanay,Milk,70.0
+2007-11-15,Kostanay,Oil (sunflower),340.0
+2007-11-15,Aktau,Potatoes,81.0
+2007-11-15,Aktau,Wheat flour (first grade),76.0
+2007-11-15,Aktau,Meat (beef),596.0
+2007-11-15,Aktau,Oil (sunflower),363.0
+2007-12-15,Nur-Sultan,Potatoes,76.0
+2007-12-15,Nur-Sultan,Meat (beef),624.0
+2007-12-15,Nur-Sultan,Milk,83.0
+2007-12-15,Almaty,Potatoes,83.0
+2007-12-15,Almaty,Meat (beef),803.0
+2007-12-15,Almaty,Milk,121.0
+2007-12-15,Almaty,Oil (sunflower),360.0
+2007-12-15,Kostanay,Potatoes,60.0
+2007-12-15,Kostanay,Wheat flour (first grade),62.0
+2007-12-15,Kostanay,Meat (beef),456.0
+2007-12-15,Kostanay,Milk,81.0
+2007-12-15,Kostanay,Oil (sunflower),340.0
+2007-12-15,Aktau,Potatoes,81.0
+2007-12-15,Aktau,Meat (beef),596.0
+2007-12-15,Aktau,Oil (sunflower),363.0
+2008-01-15,Nur-Sultan,Potatoes,80.0
+2008-01-15,Nur-Sultan,Meat (beef),624.0
+2008-01-15,Nur-Sultan,Milk,83.0
+2008-01-15,Nur-Sultan,Oil (sunflower),353.0
+2008-01-15,Almaty,Potatoes,92.0
+2008-01-15,Almaty,Wheat flour (first grade),100.0
+2008-01-15,Almaty,Meat (beef),810.0
+2008-01-15,Almaty,Milk,128.0
+2008-01-15,Almaty,Oil (sunflower),360.0
+2008-01-15,Kostanay,Potatoes,60.0
+2008-01-15,Kostanay,Wheat flour (first grade),62.0
+2008-01-15,Kostanay,Meat (beef),456.0
+2008-01-15,Kostanay,Milk,81.0
+2008-01-15,Kostanay,Oil (sunflower),300.0
+2008-01-15,Aktau,Potatoes,81.0
+2008-01-15,Aktau,Meat (beef),596.0
+2008-02-15,Nur-Sultan,Potatoes,83.0
+2008-02-15,Nur-Sultan,Meat (beef),624.0
+2008-02-15,Nur-Sultan,Milk,83.0
+2008-02-15,Nur-Sultan,Oil (sunflower),343.0
+2008-02-15,Almaty,Potatoes,97.0
+2008-02-15,Almaty,Wheat flour (first grade),100.0
+2008-02-15,Almaty,Meat (beef),810.0
+2008-02-15,Almaty,Milk,131.0
+2008-02-15,Almaty,Oil (sunflower),354.0
+2008-02-15,Kostanay,Potatoes,65.0
+2008-02-15,Kostanay,Meat (beef),456.0
+2008-02-15,Kostanay,Milk,81.0
+2008-02-15,Kostanay,Oil (sunflower),290.0
+2008-02-15,Aktau,Potatoes,93.0
+2008-02-15,Aktau,Wheat flour (first grade),76.0
+2008-02-15,Aktau,Meat (beef),596.0
+2008-03-15,Nur-Sultan,Potatoes,83.0
+2008-03-15,Nur-Sultan,Meat (beef),624.0
+2008-03-15,Nur-Sultan,Milk,85.0
+2008-03-15,Nur-Sultan,Oil (sunflower),343.0
+2008-03-15,Almaty,Potatoes,97.0
+2008-03-15,Almaty,Wheat flour (first grade),103.0
+2008-03-15,Almaty,Meat (beef),799.0
+2008-03-15,Almaty,Milk,133.0
+2008-03-15,Almaty,Oil (sunflower),351.0
+2008-03-15,Kostanay,Potatoes,65.0
+2008-03-15,Kostanay,Meat (beef),456.0
+2008-03-15,Kostanay,Milk,81.0
+2008-03-15,Aktau,Potatoes,93.0
+2008-03-15,Aktau,Meat (beef),596.0
+2008-03-15,Aktau,Oil (sunflower),341.0
+2008-04-15,Nur-Sultan,Potatoes,81.0
+2008-04-15,Nur-Sultan,Meat (beef),656.0
+2008-04-15,Nur-Sultan,Milk,85.0
+2008-04-15,Nur-Sultan,Oil (sunflower),355.0
+2008-04-15,Almaty,Potatoes,84.0
+2008-04-15,Almaty,Wheat flour (first grade),110.0
+2008-04-15,Almaty,Meat (beef),799.0
+2008-04-15,Almaty,Milk,136.0
+2008-04-15,Almaty,Oil (sunflower),360.0
+2008-04-15,Kostanay,Potatoes,66.0
+2008-04-15,Kostanay,Meat (beef),460.0
+2008-04-15,Kostanay,Milk,81.0
+2008-04-15,Aktau,Potatoes,91.0
+2008-04-15,Aktau,Wheat flour (first grade),83.0
+2008-04-15,Aktau,Meat (beef),596.0
+2008-05-15,Nur-Sultan,Potatoes,87.0
+2008-05-15,Nur-Sultan,Wheat flour (first grade),118.0
+2008-05-15,Nur-Sultan,Meat (beef),697.0
+2008-05-15,Nur-Sultan,Milk,85.0
+2008-05-15,Nur-Sultan,Oil (sunflower),385.0
+2008-05-15,Almaty,Potatoes,84.0
+2008-05-15,Almaty,Wheat flour (first grade),110.0
+2008-05-15,Almaty,Meat (beef),803.0
+2008-05-15,Almaty,Milk,131.0
+2008-05-15,Kostanay,Potatoes,66.0
+2008-05-15,Kostanay,Wheat flour (first grade),65.0
+2008-05-15,Kostanay,Meat (beef),465.0
+2008-05-15,Kostanay,Milk,75.0
+2008-05-15,Kostanay,Oil (sunflower),290.0
+2008-05-15,Aktau,Potatoes,91.0
+2008-05-15,Aktau,Meat (beef),634.0
+2008-06-15,Nur-Sultan,Potatoes,96.0
+2008-06-15,Nur-Sultan,Meat (beef),697.0
+2008-06-15,Nur-Sultan,Milk,85.0
+2008-06-15,Nur-Sultan,Oil (sunflower),385.0
+2008-06-15,Almaty,Potatoes,106.0
+2008-06-15,Almaty,Wheat flour (first grade),110.0
+2008-06-15,Almaty,Meat (beef),803.0
+2008-06-15,Almaty,Milk,125.0
+2008-06-15,Kostanay,Potatoes,68.0
+2008-06-15,Kostanay,Wheat flour (first grade),69.0
+2008-06-15,Kostanay,Meat (beef),479.0
+2008-06-15,Kostanay,Milk,70.0
+2008-06-15,Kostanay,Oil (sunflower),305.0
+2008-06-15,Aktau,Potatoes,127.0
+2008-06-15,Aktau,Wheat flour (first grade),83.0
+2008-06-15,Aktau,Meat (beef),634.0
+2008-07-15,Nur-Sultan,Potatoes,108.0
+2008-07-15,Nur-Sultan,Meat (beef),736.0
+2008-07-15,Nur-Sultan,Milk,85.0
+2008-07-15,Almaty,Potatoes,96.0
+2008-07-15,Almaty,Wheat flour (first grade),113.0
+2008-07-15,Almaty,Meat (beef),803.0
+2008-07-15,Almaty,Milk,120.0
+2008-07-15,Almaty,Oil (sunflower),383.0
+2008-07-15,Kostanay,Potatoes,72.0
+2008-07-15,Kostanay,Wheat flour (first grade),70.0
+2008-07-15,Kostanay,Meat (beef),490.0
+2008-07-15,Kostanay,Milk,70.0
+2008-07-15,Kostanay,Oil (sunflower),310.0
+2008-07-15,Aktau,Potatoes,130.0
+2008-07-15,Aktau,Meat (beef),696.0
+2008-07-15,Aktau,Oil (sunflower),361.0
+2008-08-15,Nur-Sultan,Potatoes,96.0
+2008-08-15,Nur-Sultan,Meat (beef),736.0
+2008-08-15,Nur-Sultan,Milk,85.0
+2008-08-15,Almaty,Potatoes,81.0
+2008-08-15,Almaty,Meat (beef),800.0
+2008-08-15,Almaty,Milk,118.0
+2008-08-15,Almaty,Oil (sunflower),383.0
+2008-08-15,Kostanay,Potatoes,72.0
+2008-08-15,Kostanay,Wheat flour (first grade),70.0
+2008-08-15,Kostanay,Meat (beef),500.0
+2008-08-15,Kostanay,Milk,70.0
+2008-08-15,Kostanay,Oil (sunflower),320.0
+2008-08-15,Aktau,Potatoes,113.0
+2008-08-15,Aktau,Meat (beef),696.0
+2008-08-15,Aktau,Oil (sunflower),361.0
+2008-09-15,Nur-Sultan,Potatoes,89.0
+2008-09-15,Nur-Sultan,Meat (beef),742.0
+2008-09-15,Nur-Sultan,Milk,85.0
+2008-09-15,Almaty,Potatoes,76.0
+2008-09-15,Almaty,Meat (beef),793.0
+2008-09-15,Almaty,Milk,120.0
+2008-09-15,Almaty,Oil (sunflower),371.0
+2008-09-15,Kostanay,Potatoes,72.0
+2008-09-15,Kostanay,Wheat flour (first grade),70.0
+2008-09-15,Kostanay,Meat (beef),500.0
+2008-09-15,Kostanay,Milk,70.0
+2008-09-15,Kostanay,Oil (sunflower),320.0
+2008-09-15,Aktau,Potatoes,113.0
+2008-09-15,Aktau,Meat (beef),696.0
+2008-09-15,Aktau,Oil (sunflower),391.0
+2008-10-15,Nur-Sultan,Potatoes,84.0
+2008-10-15,Nur-Sultan,Meat (beef),742.0
+2008-10-15,Nur-Sultan,Milk,86.0
+2008-10-15,Nur-Sultan,Oil (sunflower),404.0
+2008-10-15,Almaty,Potatoes,76.0
+2008-10-15,Almaty,Meat (beef),793.0
+2008-10-15,Almaty,Milk,136.0
+2008-10-15,Almaty,Oil (sunflower),371.0
+2008-10-15,Kostanay,Potatoes,77.0
+2008-10-15,Kostanay,Wheat flour (first grade),70.0
+2008-10-15,Kostanay,Meat (beef),500.0
+2008-10-15,Kostanay,Milk,70.0
+2008-10-15,Aktau,Potatoes,97.0
+2008-10-15,Aktau,Wheat flour (first grade),103.0
+2008-10-15,Aktau,Meat (beef),696.0
+2008-11-15,Nur-Sultan,Potatoes,91.0
+2008-11-15,Nur-Sultan,Meat (beef),742.0
+2008-11-15,Nur-Sultan,Milk,90.0
+2008-11-15,Nur-Sultan,Oil (sunflower),404.0
+2008-11-15,Almaty,Potatoes,76.0
+2008-11-15,Almaty,Meat (beef),797.0
+2008-11-15,Almaty,Milk,141.0
+2008-11-15,Almaty,Oil (sunflower),360.0
+2008-11-15,Kostanay,Potatoes,79.0
+2008-11-15,Kostanay,Wheat flour (first grade),68.0
+2008-11-15,Kostanay,Meat (beef),500.0
+2008-11-15,Kostanay,Oil (sunflower),300.0
+2008-11-15,Aktau,Potatoes,97.0
+2008-11-15,Aktau,Wheat flour (first grade),103.0
+2008-11-15,Aktau,Meat (beef),696.0
+2008-11-15,Aktau,Oil (sunflower),391.0
+2008-12-15,Nur-Sultan,Potatoes,91.0
+2008-12-15,Nur-Sultan,Wheat flour (first grade),123.0
+2008-12-15,Nur-Sultan,Meat (beef),742.0
+2008-12-15,Nur-Sultan,Milk,90.0
+2008-12-15,Nur-Sultan,Oil (sunflower),366.0
+2008-12-15,Almaty,Potatoes,73.0
+2008-12-15,Almaty,Wheat flour (first grade),113.0
+2008-12-15,Almaty,Meat (beef),761.0
+2008-12-15,Almaty,Milk,141.0
+2008-12-15,Almaty,Oil (sunflower),305.0
+2008-12-15,Kostanay,Potatoes,79.0
+2008-12-15,Kostanay,Meat (beef),495.0
+2008-12-15,Kostanay,Oil (sunflower),286.0
+2008-12-15,Aktau,Potatoes,97.0
+2008-12-15,Aktau,Wheat flour (first grade),103.0
+2008-12-15,Aktau,Meat (beef),696.0
+2008-12-15,Aktau,Oil (sunflower),382.0
+2009-01-15,Nur-Sultan,Potatoes,91.0
+2009-01-15,Nur-Sultan,Meat (beef),742.0
+2009-01-15,Nur-Sultan,Milk,90.0
+2009-01-15,Nur-Sultan,Oil (sunflower),341.0
+2009-01-15,Almaty,Potatoes,81.0
+2009-01-15,Almaty,Wheat flour (first grade),112.0
+2009-01-15,Almaty,Meat (beef),761.0
+2009-01-15,Almaty,Milk,141.0
+2009-01-15,Almaty,Oil (sunflower),247.0
+2009-01-15,Kostanay,Potatoes,76.0
+2009-01-15,Kostanay,Meat (beef),495.0
+2009-01-15,Kostanay,Milk,95.0
+2009-01-15,Aktau,Potatoes,98.0
+2009-01-15,Aktau,Wheat flour (first grade),103.0
+2009-01-15,Aktau,Meat (beef),696.0
+2009-01-15,Aktau,Oil (sunflower),365.0
+2009-02-15,Nur-Sultan,Potatoes,91.0
+2009-02-15,Nur-Sultan,Meat (beef),742.0
+2009-02-15,Nur-Sultan,Milk,90.0
+2009-02-15,Nur-Sultan,Oil (sunflower),337.0
+2009-02-15,Almaty,Potatoes,88.0
+2009-02-15,Almaty,Wheat flour (first grade),112.0
+2009-02-15,Almaty,Meat (beef),763.0
+2009-02-15,Almaty,Milk,141.0
+2009-02-15,Almaty,Oil (sunflower),242.0
+2009-02-15,Kostanay,Potatoes,73.0
+2009-02-15,Kostanay,Wheat flour (first grade),65.0
+2009-02-15,Kostanay,Meat (beef),505.0
+2009-02-15,Kostanay,Milk,95.0
+2009-02-15,Aktau,Potatoes,98.0
+2009-02-15,Aktau,Wheat flour (first grade),103.0
+2009-02-15,Aktau,Meat (beef),712.0
+2009-02-15,Aktau,Oil (sunflower),358.0
+2009-03-15,Nur-Sultan,Potatoes,103.0
+2009-03-15,Nur-Sultan,Meat (beef),742.0
+2009-03-15,Nur-Sultan,Milk,90.0
+2009-03-15,Nur-Sultan,Oil (sunflower),294.0
+2009-03-15,Almaty,Potatoes,89.0
+2009-03-15,Almaty,Wheat flour (first grade),110.0
+2009-03-15,Almaty,Meat (beef),751.0
+2009-03-15,Almaty,Milk,143.0
+2009-03-15,Almaty,Oil (sunflower),222.0
+2009-03-15,Kostanay,Potatoes,73.0
+2009-03-15,Kostanay,Meat (beef),527.0
+2009-03-15,Kostanay,Milk,90.0
+2009-03-15,Aktau,Potatoes,95.0
+2009-03-15,Aktau,Wheat flour (first grade),103.0
+2009-03-15,Aktau,Meat (beef),712.0
+2009-03-15,Aktau,Oil (sunflower),358.0
+2009-04-15,Nur-Sultan,Potatoes,110.0
+2009-04-15,Nur-Sultan,Meat (beef),742.0
+2009-04-15,Nur-Sultan,Milk,95.0
+2009-04-15,Nur-Sultan,Oil (sunflower),280.0
+2009-04-15,Almaty,Potatoes,91.0
+2009-04-15,Almaty,Wheat flour (first grade),107.0
+2009-04-15,Almaty,Meat (beef),758.0
+2009-04-15,Almaty,Milk,143.0
+2009-04-15,Almaty,Oil (sunflower),217.0
+2009-04-15,Kostanay,Potatoes,73.0
+2009-04-15,Kostanay,Meat (beef),527.0
+2009-04-15,Aktau,Potatoes,95.0
+2009-04-15,Aktau,Wheat flour (first grade),103.0
+2009-04-15,Aktau,Meat (beef),712.0
+2009-05-15,Nur-Sultan,Potatoes,110.0
+2009-05-15,Nur-Sultan,Wheat flour (first grade),123.0
+2009-05-15,Nur-Sultan,Meat (beef),759.0
+2009-05-15,Nur-Sultan,Milk,95.0
+2009-05-15,Nur-Sultan,Oil (sunflower),280.0
+2009-05-15,Almaty,Potatoes,97.0
+2009-05-15,Almaty,Wheat flour (first grade),107.0
+2009-05-15,Almaty,Meat (beef),758.0
+2009-05-15,Almaty,Milk,143.0
+2009-05-15,Kostanay,Potatoes,75.0
+2009-05-15,Kostanay,Meat (beef),540.0
+2009-05-15,Kostanay,Milk,80.0
+2009-05-15,Kostanay,Oil (sunflower),190.0
+2009-05-15,Aktau,Potatoes,96.0
+2009-05-15,Aktau,Meat (beef),712.0
+2009-06-15,Nur-Sultan,Potatoes,98.0
+2009-06-15,Nur-Sultan,Wheat flour (first grade),124.0
+2009-06-15,Nur-Sultan,Meat (beef),759.0
+2009-06-15,Nur-Sultan,Milk,90.0
+2009-06-15,Nur-Sultan,Oil (sunflower),249.0
+2009-06-15,Almaty,Potatoes,111.0
+2009-06-15,Almaty,Wheat flour (first grade),106.0
+2009-06-15,Almaty,Meat (beef),779.0
+2009-06-15,Almaty,Milk,143.0
+2009-06-15,Kostanay,Potatoes,78.0
+2009-06-15,Kostanay,Meat (beef),540.0
+2009-06-15,Kostanay,Milk,80.0
+2009-06-15,Kostanay,Oil (sunflower),190.0
+2009-06-15,Aktau,Potatoes,113.0
+2009-06-15,Aktau,Wheat flour (first grade),99.0
+2009-06-15,Aktau,Meat (beef),722.0
+2009-07-15,Nur-Sultan,Potatoes,84.0
+2009-07-15,Nur-Sultan,Meat (beef),759.0
+2009-07-15,Nur-Sultan,Milk,90.0
+2009-07-15,Almaty,Potatoes,93.0
+2009-07-15,Almaty,Meat (beef),786.0
+2009-07-15,Almaty,Milk,130.0
+2009-07-15,Almaty,Oil (sunflower),213.0
+2009-07-15,Kostanay,Potatoes,80.0
+2009-07-15,Kostanay,Wheat flour (first grade),60.0
+2009-07-15,Kostanay,Meat (beef),540.0
+2009-07-15,Kostanay,Milk,80.0
+2009-07-15,Kostanay,Oil (sunflower),190.0
+2009-07-15,Aktau,Potatoes,121.0
+2009-07-15,Aktau,Meat (beef),722.0
+2009-07-15,Aktau,Oil (sunflower),304.0
+2009-08-15,Nur-Sultan,Potatoes,74.0
+2009-08-15,Nur-Sultan,Meat (beef),759.0
+2009-08-15,Nur-Sultan,Milk,90.0
+2009-08-15,Nur-Sultan,Oil (sunflower),249.0
+2009-08-15,Almaty,Potatoes,74.0
+2009-08-15,Almaty,Meat (beef),786.0
+2009-08-15,Almaty,Milk,128.0
+2009-08-15,Almaty,Oil (sunflower),218.0
+2009-08-15,Kostanay,Potatoes,80.0
+2009-08-15,Kostanay,Wheat flour (first grade),60.0
+2009-08-15,Kostanay,Meat (beef),540.0
+2009-08-15,Kostanay,Milk,80.0
+2009-08-15,Kostanay,Oil (sunflower),195.0
+2009-08-15,Aktau,Potatoes,114.0
+2009-08-15,Aktau,Meat (beef),715.0
+2009-08-15,Aktau,Oil (sunflower),304.0
+2009-09-15,Nur-Sultan,Potatoes,67.0
+2009-09-15,Nur-Sultan,Wheat flour (first grade),125.0
+2009-09-15,Nur-Sultan,Meat (beef),759.0
+2009-09-15,Nur-Sultan,Milk,90.0
+2009-09-15,Nur-Sultan,Oil (sunflower),249.0
+2009-09-15,Almaty,Potatoes,73.0
+2009-09-15,Almaty,Meat (beef),786.0
+2009-09-15,Almaty,Milk,128.0
+2009-09-15,Almaty,Oil (sunflower),218.0
+2009-09-15,Kostanay,Potatoes,65.0
+2009-09-15,Kostanay,Meat (beef),540.0
+2009-09-15,Kostanay,Milk,80.0
+2009-09-15,Kostanay,Oil (sunflower),197.0
+2009-09-15,Aktau,Potatoes,109.0
+2009-09-15,Aktau,Meat (beef),715.0
+2009-09-15,Aktau,Oil (sunflower),304.0
+2009-10-15,Nur-Sultan,Potatoes,67.0
+2009-10-15,Nur-Sultan,Meat (beef),759.0
+2009-10-15,Nur-Sultan,Milk,95.0
+2009-10-15,Nur-Sultan,Oil (sunflower),249.0
+2009-10-15,Almaty,Potatoes,65.0
+2009-10-15,Almaty,Meat (beef),786.0
+2009-10-15,Almaty,Milk,128.0
+2009-10-15,Almaty,Oil (sunflower),218.0
+2009-10-15,Kostanay,Potatoes,60.0
+2009-10-15,Kostanay,Wheat flour (first grade),58.0
+2009-10-15,Kostanay,Meat (beef),540.0
+2009-10-15,Kostanay,Milk,83.0
+2009-10-15,Kostanay,Oil (sunflower),230.0
+2009-10-15,Aktau,Potatoes,85.0
+2009-10-15,Aktau,Meat (beef),715.0
+2009-11-15,Nur-Sultan,Potatoes,64.0
+2009-11-15,Nur-Sultan,Meat (beef),759.0
+2009-11-15,Nur-Sultan,Milk,95.0
+2009-11-15,Nur-Sultan,Oil (sunflower),249.0
+2009-11-15,Almaty,Potatoes,62.0
+2009-11-15,Almaty,Meat (beef),786.0
+2009-11-15,Almaty,Milk,130.0
+2009-11-15,Kostanay,Potatoes,50.0
+2009-11-15,Kostanay,Wheat flour (first grade),55.0
+2009-11-15,Kostanay,Meat (beef),550.0
+2009-11-15,Kostanay,Milk,86.0
+2009-11-15,Kostanay,Oil (sunflower),230.0
+2009-11-15,Aktau,Potatoes,82.0
+2009-11-15,Aktau,Wheat flour (first grade),99.0
+2009-11-15,Aktau,Meat (beef),715.0
+2009-12-15,Nur-Sultan,Potatoes,64.0
+2009-12-15,Nur-Sultan,Meat (beef),753.0
+2009-12-15,Nur-Sultan,Milk,100.0
+2009-12-15,Almaty,Potatoes,62.0
+2009-12-15,Almaty,Wheat flour (first grade),95.0
+2009-12-15,Almaty,Meat (beef),786.0
+2009-12-15,Almaty,Milk,136.0
+2009-12-15,Almaty,Oil (sunflower),229.0
+2009-12-15,Kostanay,Potatoes,48.0
+2009-12-15,Kostanay,Wheat flour (first grade),52.0
+2009-12-15,Kostanay,Meat (beef),560.0
+2009-12-15,Kostanay,Milk,90.0
+2009-12-15,Kostanay,Oil (sunflower),230.0
+2009-12-15,Aktau,Potatoes,77.0
+2009-12-15,Aktau,Wheat flour (first grade),99.0
+2009-12-15,Aktau,Meat (beef),715.0
+2009-12-15,Aktau,Oil (sunflower),313.0
+2010-01-15,Nur-Sultan,Potatoes,64.0
+2010-01-15,Nur-Sultan,Meat (beef),753.0
+2010-01-15,Nur-Sultan,Milk,100.0
+2010-01-15,Nur-Sultan,Oil (sunflower),249.0
+2010-01-15,Almaty,Potatoes,65.0
+2010-01-15,Almaty,Wheat flour (first grade),93.0
+2010-01-15,Almaty,Meat (beef),793.0
+2010-01-15,Almaty,Milk,143.0
+2010-01-15,Almaty,Oil (sunflower),229.0
+2010-01-15,Kostanay,Potatoes,50.0
+2010-01-15,Kostanay,Meat (beef),560.0
+2010-01-15,Kostanay,Milk,100.0
+2010-01-15,Aktau,Potatoes,79.0
+2010-01-15,Aktau,Wheat flour (first grade),95.0
+2010-01-15,Aktau,Meat (beef),745.0
+2010-01-15,Aktau,Oil (sunflower),313.0
+2010-02-15,Nur-Sultan,Potatoes,66.0
+2010-02-15,Nur-Sultan,Meat (beef),778.0
+2010-02-15,Nur-Sultan,Milk,105.0
+2010-02-15,Nur-Sultan,Oil (sunflower),249.0
+2010-02-15,Almaty,Potatoes,72.0
+2010-02-15,Almaty,Wheat flour (first grade),92.0
+2010-02-15,Almaty,Meat (beef),807.0
+2010-02-15,Almaty,Milk,153.0
+2010-02-15,Almaty,Oil (sunflower),229.0
+2010-02-15,Kostanay,Potatoes,50.0
+2010-02-15,Kostanay,Wheat flour (first grade),50.0
+2010-02-15,Kostanay,Meat (beef),585.0
+2010-02-15,Kostanay,Milk,100.0
+2010-02-15,Aktau,Potatoes,91.0
+2010-02-15,Aktau,Wheat flour (first grade),95.0
+2010-02-15,Aktau,Meat (beef),766.0
+2010-03-15,Nur-Sultan,Potatoes,73.0
+2010-03-15,Nur-Sultan,Meat (beef),800.0
+2010-03-15,Nur-Sultan,Milk,105.0
+2010-03-15,Nur-Sultan,Oil (sunflower),249.0
+2010-03-15,Almaty,Potatoes,76.0
+2010-03-15,Almaty,Wheat flour (first grade),88.0
+2010-03-15,Almaty,Meat (beef),824.0
+2010-03-15,Almaty,Milk,153.0
+2010-03-15,Almaty,Oil (sunflower),229.0
+2010-03-15,Kostanay,Potatoes,56.0
+2010-03-15,Kostanay,Meat (beef),600.0
+2010-03-15,Kostanay,Milk,100.0
+2010-03-15,Aktau,Potatoes,98.0
+2010-03-15,Aktau,Wheat flour (first grade),95.0
+2010-03-15,Aktau,Meat (beef),787.0
+2010-03-15,Aktau,Oil (sunflower),314.0
+2010-04-15,Nur-Sultan,Potatoes,78.0
+2010-04-15,Nur-Sultan,Meat (beef),831.0
+2010-04-15,Nur-Sultan,Milk,105.0
+2010-04-15,Nur-Sultan,Oil (sunflower),249.0
+2010-04-15,Almaty,Potatoes,76.0
+2010-04-15,Almaty,Wheat flour (first grade),85.0
+2010-04-15,Almaty,Meat (beef),824.0
+2010-04-15,Almaty,Milk,144.0
+2010-04-15,Almaty,Oil (sunflower),229.0
+2010-04-15,Kostanay,Potatoes,58.0
+2010-04-15,Kostanay,Wheat flour (first grade),50.0
+2010-04-15,Kostanay,Meat (beef),620.0
+2010-04-15,Kostanay,Milk,90.0
+2010-04-15,Kostanay,Oil (sunflower),230.0
+2010-04-15,Aktau,Potatoes,102.0
+2010-04-15,Aktau,Wheat flour (first grade),95.0
+2010-04-15,Aktau,Meat (beef),808.0
+2010-05-15,Nur-Sultan,Potatoes,84.0
+2010-05-15,Nur-Sultan,Meat (beef),850.0
+2010-05-15,Nur-Sultan,Milk,105.0
+2010-05-15,Nur-Sultan,Oil (sunflower),249.0
+2010-05-15,Almaty,Potatoes,78.0
+2010-05-15,Almaty,Wheat flour (first grade),85.0
+2010-05-15,Almaty,Meat (beef),840.0
+2010-05-15,Almaty,Milk,139.0
+2010-05-15,Kostanay,Potatoes,58.0
+2010-05-15,Kostanay,Meat (beef),620.0
+2010-05-15,Kostanay,Milk,85.0
+2010-05-15,Kostanay,Oil (sunflower),230.0
+2010-05-15,Aktau,Potatoes,104.0
+2010-05-15,Aktau,Wheat flour (first grade),94.0
+2010-05-15,Aktau,Meat (beef),808.0
+2010-05-15,Aktau,Oil (sunflower),314.0
+2010-06-15,Nur-Sultan,Potatoes,92.0
+2010-06-15,Nur-Sultan,Meat (beef),903.0
+2010-06-15,Nur-Sultan,Milk,100.0
+2010-06-15,Nur-Sultan,Oil (sunflower),249.0
+2010-06-15,Almaty,Potatoes,90.0
+2010-06-15,Almaty,Wheat flour (first grade),82.0
+2010-06-15,Almaty,Meat (beef),840.0
+2010-06-15,Almaty,Milk,130.0
+2010-06-15,Almaty,Oil (sunflower),229.0
+2010-06-15,Kostanay,Potatoes,62.0
+2010-06-15,Kostanay,Meat (beef),650.0
+2010-06-15,Kostanay,Milk,80.0
+2010-06-15,Kostanay,Oil (sunflower),230.0
+2010-06-15,Aktau,Potatoes,119.0
+2010-06-15,Aktau,Wheat flour (first grade),94.0
+2010-06-15,Aktau,Meat (beef),831.0
+2010-06-15,Aktau,Oil (sunflower),314.0
+2010-07-15,Nur-Sultan,Potatoes,87.0
+2010-07-15,Nur-Sultan,Wheat flour (first grade),94.0
+2010-07-15,Nur-Sultan,Meat (beef),903.0
+2010-07-15,Nur-Sultan,Milk,100.0
+2010-07-15,Nur-Sultan,Oil (sunflower),259.0
+2010-07-15,Almaty,Potatoes,83.0
+2010-07-15,Almaty,Meat (beef),844.0
+2010-07-15,Almaty,Milk,128.0
+2010-07-15,Almaty,Oil (sunflower),229.0
+2010-07-15,Kostanay,Potatoes,62.0
+2010-07-15,Kostanay,Meat (beef),650.0
+2010-07-15,Kostanay,Milk,80.0
+2010-07-15,Kostanay,Oil (sunflower),226.0
+2010-07-15,Aktau,Potatoes,116.0
+2010-07-15,Aktau,Meat (beef),831.0
+2010-07-15,Aktau,Oil (sunflower),314.0
+2010-08-15,Nur-Sultan,Potatoes,81.0
+2010-08-15,Nur-Sultan,Meat (beef),903.0
+2010-08-15,Nur-Sultan,Milk,100.0
+2010-08-15,Nur-Sultan,Oil (sunflower),259.0
+2010-08-15,Almaty,Potatoes,73.0
+2010-08-15,Almaty,Meat (beef),866.0
+2010-08-15,Almaty,Milk,128.0
+2010-08-15,Almaty,Oil (sunflower),230.0
+2010-08-15,Kostanay,Potatoes,60.0
+2010-08-15,Kostanay,Meat (beef),650.0
+2010-08-15,Kostanay,Milk,80.0
+2010-08-15,Aktau,Potatoes,112.0
+2010-08-15,Aktau,Wheat flour (first grade),94.0
+2010-08-15,Aktau,Meat (beef),831.0
+2010-08-15,Aktau,Oil (sunflower),314.0
+2010-09-15,Nur-Sultan,Potatoes,73.0
+2010-09-15,Nur-Sultan,Wheat flour (first grade),97.0
+2010-09-15,Nur-Sultan,Meat (beef),903.0
+2010-09-15,Nur-Sultan,Milk,100.0
+2010-09-15,Nur-Sultan,Oil (sunflower),294.0
+2010-09-15,Almaty,Potatoes,64.0
+2010-09-15,Almaty,Meat (beef),870.0
+2010-09-15,Almaty,Milk,124.0
+2010-09-15,Almaty,Oil (sunflower),250.0
+2010-09-15,Kostanay,Potatoes,60.0
+2010-09-15,Kostanay,Meat (beef),650.0
+2010-09-15,Kostanay,Milk,80.0
+2010-09-15,Aktau,Potatoes,110.0
+2010-09-15,Aktau,Wheat flour (first grade),94.0
+2010-09-15,Aktau,Meat (beef),831.0
+2010-09-15,Aktau,Oil (sunflower),317.0
+2010-10-15,Nur-Sultan,Potatoes,91.0
+2010-10-15,Nur-Sultan,Meat (beef),932.0
+2010-10-15,Nur-Sultan,Milk,100.0
+2010-10-15,Nur-Sultan,Oil (sunflower),294.0
+2010-10-15,Almaty,Potatoes,65.0
+2010-10-15,Almaty,Meat (beef),870.0
+2010-10-15,Almaty,Milk,129.0
+2010-10-15,Kostanay,Potatoes,62.0
+2010-10-15,Kostanay,Wheat flour (first grade),55.0
+2010-10-15,Kostanay,Meat (beef),650.0
+2010-10-15,Kostanay,Milk,85.0
+2010-10-15,Kostanay,Oil (sunflower),235.0
+2010-10-15,Aktau,Potatoes,110.0
+2010-10-15,Aktau,Meat (beef),857.0
+2010-11-15,Nur-Sultan,Potatoes,96.0
+2010-11-15,Nur-Sultan,Meat (beef),932.0
+2010-11-15,Nur-Sultan,Milk,103.0
+2010-11-15,Nur-Sultan,Oil (sunflower),330.0
+2010-11-15,Almaty,Potatoes,76.0
+2010-11-15,Almaty,Meat (beef),870.0
+2010-11-15,Almaty,Milk,134.0
+2010-11-15,Kostanay,Potatoes,63.0
+2010-11-15,Kostanay,Meat (beef),650.0
+2010-11-15,Kostanay,Milk,87.0
+2010-11-15,Kostanay,Oil (sunflower),240.0
+2010-11-15,Aktau,Potatoes,107.0
+2010-11-15,Aktau,Wheat flour (first grade),96.0
+2010-11-15,Aktau,Meat (beef),862.0
+2010-12-15,Nur-Sultan,Potatoes,96.0
+2010-12-15,Nur-Sultan,Meat (beef),932.0
+2010-12-15,Nur-Sultan,Milk,103.0
+2010-12-15,Almaty,Potatoes,83.0
+2010-12-15,Almaty,Wheat flour (first grade),84.0
+2010-12-15,Almaty,Meat (beef),884.0
+2010-12-15,Almaty,Milk,143.0
+2010-12-15,Almaty,Oil (sunflower),325.0
+2010-12-15,Kostanay,Potatoes,67.0
+2010-12-15,Kostanay,Wheat flour (first grade),57.0
+2010-12-15,Kostanay,Meat (beef),650.0
+2010-12-15,Kostanay,Oil (sunflower),265.0
+2010-12-15,Aktau,Potatoes,107.0
+2010-12-15,Aktau,Meat (beef),862.0
+2010-12-15,Aktau,Oil (sunflower),361.0
+2011-01-15,Nur-Sultan,Potatoes,137.0
+2011-01-15,Nur-Sultan,Meat (beef),970.0
+2011-01-15,Nur-Sultan,Milk,110.0
+2011-01-15,Nur-Sultan,Oil (sunflower),341.0
+2011-01-15,Almaty,Potatoes,93.0
+2011-01-15,Almaty,Wheat flour (first grade),84.0
+2011-01-15,Almaty,Meat (beef),897.0
+2011-01-15,Almaty,Milk,146.0
+2011-01-15,Almaty,Oil (sunflower),327.0
+2011-01-15,Kostanay,Potatoes,75.0
+2011-01-15,Kostanay,Wheat flour (first grade),57.0
+2011-01-15,Kostanay,Meat (beef),680.0
+2011-01-15,Kostanay,Milk,87.0
+2011-01-15,Kostanay,Oil (sunflower),304.0
+2011-01-15,Aktau,Potatoes,123.0
+2011-01-15,Aktau,Meat (beef),997.0
+2011-01-15,Aktau,Oil (sunflower),364.0
+2011-02-15,Nur-Sultan,Potatoes,150.0
+2011-02-15,Nur-Sultan,Meat (beef),970.0
+2011-02-15,Nur-Sultan,Milk,110.0
+2011-02-15,Nur-Sultan,Oil (sunflower),341.0
+2011-02-15,Almaty,Potatoes,126.0
+2011-02-15,Almaty,Wheat flour (first grade),88.0
+2011-02-15,Almaty,Meat (beef),920.0
+2011-02-15,Almaty,Milk,149.0
+2011-02-15,Almaty,Oil (sunflower),327.0
+2011-02-15,Kostanay,Potatoes,110.0
+2011-02-15,Kostanay,Wheat flour (first grade),60.0
+2011-02-15,Kostanay,Meat (beef),720.0
+2011-02-15,Kostanay,Milk,90.0
+2011-02-15,Kostanay,Oil (sunflower),310.0
+2011-02-15,Aktau,Potatoes,125.0
+2011-02-15,Aktau,Wheat flour (first grade),102.0
+2011-02-15,Aktau,Meat (beef),997.0
+2011-03-15,Nur-Sultan,Potatoes,115.0
+2011-03-15,Nur-Sultan,Meat (beef),1101.0
+2011-03-15,Nur-Sultan,Milk,115.0
+2011-03-15,Nur-Sultan,Oil (sunflower),355.0
+2011-03-15,Almaty,Potatoes,113.0
+2011-03-15,Almaty,Wheat flour (first grade),96.0
+2011-03-15,Almaty,Meat (beef),963.0
+2011-03-15,Almaty,Milk,162.0
+2011-03-15,Almaty,Oil (sunflower),333.0
+2011-03-15,Kostanay,Potatoes,110.0
+2011-03-15,Kostanay,Wheat flour (first grade),60.0
+2011-03-15,Kostanay,Meat (beef),720.0
+2011-03-15,Kostanay,Milk,92.0
+2011-03-15,Kostanay,Oil (sunflower),310.0
+2011-03-15,Aktau,Potatoes,131.0
+2011-03-15,Aktau,Wheat flour (first grade),107.0
+2011-03-15,Aktau,Meat (beef),1104.0
+2011-03-15,Aktau,Oil (sunflower),370.0
+2011-04-15,Nur-Sultan,Potatoes,116.0
+2011-04-15,Nur-Sultan,Meat (beef),1110.0
+2011-04-15,Nur-Sultan,Milk,120.0
+2011-04-15,Nur-Sultan,Oil (sunflower),355.0
+2011-04-15,Almaty,Potatoes,107.0
+2011-04-15,Almaty,Wheat flour (first grade),101.0
+2011-04-15,Almaty,Meat (beef),996.0
+2011-04-15,Almaty,Milk,152.0
+2011-04-15,Almaty,Oil (sunflower),342.0
+2011-04-15,Kostanay,Potatoes,110.0
+2011-04-15,Kostanay,Wheat flour (first grade),60.0
+2011-04-15,Kostanay,Meat (beef),720.0
+2011-04-15,Kostanay,Milk,93.0
+2011-04-15,Kostanay,Oil (sunflower),310.0
+2011-04-15,Aktau,Potatoes,125.0
+2011-04-15,Aktau,Wheat flour (first grade),111.0
+2011-04-15,Aktau,Meat (beef),1123.0
+2011-05-15,Nur-Sultan,Potatoes,112.0
+2011-05-15,Nur-Sultan,Meat (beef),1160.0
+2011-05-15,Nur-Sultan,Milk,120.0
+2011-05-15,Almaty,Potatoes,111.0
+2011-05-15,Almaty,Wheat flour (first grade),101.0
+2011-05-15,Almaty,Meat (beef),1005.0
+2011-05-15,Almaty,Milk,143.0
+2011-05-15,Almaty,Oil (sunflower),346.0
+2011-05-15,Kostanay,Potatoes,110.0
+2011-05-15,Kostanay,Meat (beef),730.0
+2011-05-15,Kostanay,Oil (sunflower),310.0
+2011-05-15,Aktau,Potatoes,126.0
+2011-05-15,Aktau,Wheat flour (first grade),113.0
+2011-05-15,Aktau,Meat (beef),1113.0
+2011-05-15,Aktau,Oil (sunflower),376.0
+2011-06-15,Nur-Sultan,Potatoes,138.0
+2011-06-15,Nur-Sultan,Meat (beef),1208.0
+2011-06-15,Nur-Sultan,Milk,115.0
+2011-06-15,Almaty,Potatoes,132.0
+2011-06-15,Almaty,Wheat flour (first grade),106.0
+2011-06-15,Almaty,Meat (beef),1028.0
+2011-06-15,Almaty,Milk,142.0
+2011-06-15,Almaty,Oil (sunflower),350.0
+2011-06-15,Kostanay,Potatoes,110.0
+2011-06-15,Kostanay,Meat (beef),750.0
+2011-06-15,Kostanay,Milk,93.0
+2011-06-15,Kostanay,Oil (sunflower),315.0
+2011-06-15,Aktau,Potatoes,133.0
+2011-06-15,Aktau,Wheat flour (first grade),117.0
+2011-06-15,Aktau,Meat (beef),1115.0
+2011-06-15,Aktau,Oil (sunflower),378.0
+2011-07-15,Nur-Sultan,Potatoes,142.0
+2011-07-15,Nur-Sultan,Wheat flour (first grade),94.0
+2011-07-15,Nur-Sultan,Meat (beef),1256.0
+2011-07-15,Nur-Sultan,Milk,100.0
+2011-07-15,Nur-Sultan,Oil (sunflower),345.0
+2011-07-15,Almaty,Potatoes,118.0
+2011-07-15,Almaty,Meat (beef),1100.0
+2011-07-15,Almaty,Milk,141.0
+2011-07-15,Almaty,Oil (sunflower),346.0
+2011-07-15,Kostanay,Potatoes,110.0
+2011-07-15,Kostanay,Meat (beef),765.0
+2011-07-15,Kostanay,Milk,93.0
+2011-07-15,Aktau,Potatoes,128.0
+2011-07-15,Aktau,Wheat flour (first grade),123.0
+2011-07-15,Aktau,Meat (beef),1156.0
+2011-07-15,Aktau,Oil (sunflower),375.0
+2011-08-15,Nur-Sultan,Potatoes,99.0
+2011-08-15,Nur-Sultan,Wheat flour (first grade),94.0
+2011-08-15,Nur-Sultan,Meat (beef),1281.0
+2011-08-15,Nur-Sultan,Milk,100.0
+2011-08-15,Nur-Sultan,Oil (sunflower),341.0
+2011-08-15,Almaty,Potatoes,100.0
+2011-08-15,Almaty,Meat (beef),1113.0
+2011-08-15,Almaty,Milk,138.0
+2011-08-15,Almaty,Oil (sunflower),339.0
+2011-08-15,Kostanay,Potatoes,97.0
+2011-08-15,Kostanay,Meat (beef),775.0
+2011-08-15,Aktau,Potatoes,121.0
+2011-08-15,Aktau,Wheat flour (first grade),123.0
+2011-08-15,Aktau,Meat (beef),1186.0
+2011-08-15,Aktau,Oil (sunflower),375.0
+2011-09-15,Nur-Sultan,Potatoes,59.0
+2011-09-15,Nur-Sultan,Meat (beef),1281.0
+2011-09-15,Nur-Sultan,Milk,110.0
+2011-09-15,Nur-Sultan,Oil (sunflower),341.0
+2011-09-15,Almaty,Potatoes,73.0
+2011-09-15,Almaty,Meat (beef),1252.0
+2011-09-15,Almaty,Milk,136.0
+2011-09-15,Almaty,Oil (sunflower),342.0
+2011-09-15,Kostanay,Potatoes,64.0
+2011-09-15,Kostanay,Wheat flour (first grade),64.0
+2011-09-15,Kostanay,Meat (beef),830.0
+2011-09-15,Aktau,Potatoes,113.0
+2011-09-15,Aktau,Wheat flour (first grade),125.0
+2011-09-15,Aktau,Meat (beef),1198.0
+2011-09-15,Aktau,Oil (sunflower),380.0
+2011-10-15,Nur-Sultan,Potatoes,53.0
+2011-10-15,Nur-Sultan,Wheat flour (first grade),94.0
+2011-10-15,Nur-Sultan,Meat (beef),1281.0
+2011-10-15,Nur-Sultan,Milk,110.0
+2011-10-15,Nur-Sultan,Oil (sunflower),352.0
+2011-10-15,Almaty,Potatoes,66.0
+2011-10-15,Almaty,Wheat flour (first grade),104.0
+2011-10-15,Almaty,Meat (beef),1335.0
+2011-10-15,Almaty,Milk,139.0
+2011-10-15,Kostanay,Potatoes,58.0
+2011-10-15,Kostanay,Meat (beef),850.0
+2011-10-15,Kostanay,Milk,93.0
+2011-10-15,Kostanay,Oil (sunflower),315.0
+2011-10-15,Aktau,Potatoes,93.0
+2011-10-15,Aktau,Wheat flour (first grade),127.0
+2011-10-15,Aktau,Meat (beef),1208.0
+2011-11-15,Nur-Sultan,Potatoes,60.0
+2011-11-15,Nur-Sultan,Wheat flour (first grade),94.0
+2011-11-15,Nur-Sultan,Meat (beef),1314.0
+2011-11-15,Nur-Sultan,Milk,110.0
+2011-11-15,Nur-Sultan,Oil (sunflower),336.0
+2011-11-15,Almaty,Potatoes,71.0
+2011-11-15,Almaty,Wheat flour (first grade),104.0
+2011-11-15,Almaty,Meat (beef),1354.0
+2011-11-15,Almaty,Milk,141.0
+2011-11-15,Kostanay,Potatoes,58.0
+2011-11-15,Kostanay,Meat (beef),970.0
+2011-11-15,Kostanay,Milk,100.0
+2011-11-15,Kostanay,Oil (sunflower),315.0
+2011-11-15,Aktau,Potatoes,86.0
+2011-11-15,Aktau,Wheat flour (first grade),117.0
+2011-11-15,Aktau,Meat (beef),1227.0
+2011-11-15,Aktau,Oil (sunflower),377.0
+2011-12-15,Nur-Sultan,Potatoes,59.0
+2011-12-15,Nur-Sultan,Wheat flour (first grade),94.0
+2011-12-15,Nur-Sultan,Meat (beef),1314.0
+2011-12-15,Nur-Sultan,Milk,120.0
+2011-12-15,Almaty,Potatoes,74.0
+2011-12-15,Almaty,Meat (beef),1376.0
+2011-12-15,Almaty,Milk,145.0
+2011-12-15,Almaty,Oil (sunflower),346.0
+2011-12-15,Kostanay,Potatoes,56.0
+2011-12-15,Kostanay,Wheat flour (first grade),58.0
+2011-12-15,Kostanay,Meat (beef),970.0
+2011-12-15,Kostanay,Milk,100.0
+2011-12-15,Kostanay,Oil (sunflower),315.0
+2011-12-15,Aktau,Potatoes,86.0
+2011-12-15,Aktau,Wheat flour (first grade),116.0
+2011-12-15,Aktau,Meat (beef),1227.0
+2011-12-15,Aktau,Oil (sunflower),377.0
+2012-01-15,Nur-Sultan,Potatoes,58.0
+2012-01-15,Nur-Sultan,Meat (beef),1314.0
+2012-01-15,Nur-Sultan,Milk,120.0
+2012-01-15,Nur-Sultan,Oil (sunflower),339.0
+2012-01-15,Almaty,Potatoes,74.0
+2012-01-15,Almaty,Wheat flour (first grade),99.0
+2012-01-15,Almaty,Meat (beef),1388.0
+2012-01-15,Almaty,Milk,155.0
+2012-01-15,Kostanay,Potatoes,56.0
+2012-01-15,Kostanay,Wheat flour (first grade),57.0
+2012-01-15,Kostanay,Meat (beef),970.0
+2012-01-15,Kostanay,Milk,100.0
+2012-01-15,Kostanay,Oil (sunflower),315.0
+2012-01-15,Aktau,Potatoes,86.0
+2012-01-15,Aktau,Wheat flour (first grade),109.0
+2012-01-15,Aktau,Meat (beef),1227.0
+2012-02-15,Nur-Sultan,Potatoes,58.0
+2012-02-15,Nur-Sultan,Meat (beef),1341.0
+2012-02-15,Nur-Sultan,Milk,125.0
+2012-02-15,Nur-Sultan,Oil (sunflower),339.0
+2012-02-15,Almaty,Potatoes,74.0
+2012-02-15,Almaty,Wheat flour (first grade),100.0
+2012-02-15,Almaty,Meat (beef),1388.0
+2012-02-15,Almaty,Milk,155.0
+2012-02-15,Kostanay,Potatoes,56.0
+2012-02-15,Kostanay,Wheat flour (first grade),57.0
+2012-02-15,Kostanay,Meat (beef),970.0
+2012-02-15,Kostanay,Milk,100.0
+2012-02-15,Kostanay,Oil (sunflower),315.0
+2012-02-15,Aktau,Potatoes,86.0
+2012-02-15,Aktau,Wheat flour (first grade),106.0
+2012-02-15,Aktau,Meat (beef),1247.0
+2012-03-15,Nur-Sultan,Potatoes,58.0
+2012-03-15,Nur-Sultan,Wheat flour (first grade),88.0
+2012-03-15,Nur-Sultan,Meat (beef),1359.0
+2012-03-15,Nur-Sultan,Milk,125.0
+2012-03-15,Nur-Sultan,Oil (sunflower),335.0
+2012-03-15,Almaty,Potatoes,69.0
+2012-03-15,Almaty,Wheat flour (first grade),100.0
+2012-03-15,Almaty,Meat (beef),1409.0
+2012-03-15,Almaty,Milk,155.0
+2012-03-15,Almaty,Oil (sunflower),311.0
+2012-03-15,Kostanay,Potatoes,56.0
+2012-03-15,Kostanay,Wheat flour (first grade),55.0
+2012-03-15,Kostanay,Meat (beef),980.0
+2012-03-15,Kostanay,Milk,100.0
+2012-03-15,Aktau,Potatoes,87.0
+2012-03-15,Aktau,Wheat flour (first grade),106.0
+2012-03-15,Aktau,Meat (beef),1247.0
+2012-03-15,Aktau,Oil (sunflower),343.0
+2012-04-15,Nur-Sultan,Potatoes,55.0
+2012-04-15,Nur-Sultan,Wheat flour (first grade),88.0
+2012-04-15,Nur-Sultan,Meat (beef),1373.0
+2012-04-15,Nur-Sultan,Milk,125.0
+2012-04-15,Nur-Sultan,Oil (sunflower),328.0
+2012-04-15,Almaty,Potatoes,62.0
+2012-04-15,Almaty,Wheat flour (first grade),102.0
+2012-04-15,Almaty,Meat (beef),1420.0
+2012-04-15,Almaty,Milk,155.0
+2012-04-15,Almaty,Oil (sunflower),299.0
+2012-04-15,Kostanay,Potatoes,56.0
+2012-04-15,Kostanay,Wheat flour (first grade),55.0
+2012-04-15,Kostanay,Meat (beef),1000.0
+2012-04-15,Kostanay,Milk,100.0
+2012-04-15,Aktau,Potatoes,82.0
+2012-04-15,Aktau,Wheat flour (first grade),106.0
+2012-04-15,Aktau,Meat (beef),1247.0
+2012-05-15,Nur-Sultan,Potatoes,63.0
+2012-05-15,Nur-Sultan,Wheat flour (first grade),88.0
+2012-05-15,Nur-Sultan,Meat (beef),1373.0
+2012-05-15,Nur-Sultan,Milk,125.0
+2012-05-15,Nur-Sultan,Oil (sunflower),313.0
+2012-05-15,Almaty,Potatoes,58.0
+2012-05-15,Almaty,Wheat flour (first grade),97.0
+2012-05-15,Almaty,Meat (beef),1420.0
+2012-05-15,Almaty,Milk,155.0
+2012-05-15,Kostanay,Potatoes,56.0
+2012-05-15,Kostanay,Meat (beef),1000.0
+2012-05-15,Kostanay,Milk,100.0
+2012-05-15,Kostanay,Oil (sunflower),296.0
+2012-05-15,Aktau,Potatoes,83.0
+2012-05-15,Aktau,Wheat flour (first grade),102.0
+2012-05-15,Aktau,Meat (beef),1247.0
+2012-06-15,Nur-Sultan,Potatoes,71.0
+2012-06-15,Nur-Sultan,Meat (beef),1385.0
+2012-06-15,Nur-Sultan,Milk,125.0
+2012-06-15,Nur-Sultan,Oil (sunflower),313.0
+2012-06-15,Almaty,Potatoes,62.0
+2012-06-15,Almaty,Wheat flour (first grade),97.0
+2012-06-15,Almaty,Meat (beef),1420.0
+2012-06-15,Almaty,Milk,154.0
+2012-06-15,Kostanay,Potatoes,58.0
+2012-06-15,Kostanay,Meat (beef),1000.0
+2012-06-15,Kostanay,Milk,100.0
+2012-06-15,Kostanay,Oil (sunflower),290.0
+2012-06-15,Aktau,Potatoes,96.0
+2012-06-15,Aktau,Meat (beef),1247.0
+2012-07-15,Nur-Sultan,Potatoes,88.0
+2012-07-15,Nur-Sultan,Meat (beef),1395.0
+2012-07-15,Nur-Sultan,Milk,125.0
+2012-07-15,Almaty,Potatoes,66.0
+2012-07-15,Almaty,Meat (beef),1423.0
+2012-07-15,Almaty,Milk,154.0
+2012-07-15,Almaty,Oil (sunflower),293.0
+2012-07-15,Kostanay,Potatoes,60.0
+2012-07-15,Kostanay,Wheat flour (first grade),55.0
+2012-07-15,Kostanay,Meat (beef),1020.0
+2012-07-15,Kostanay,Milk,100.0
+2012-07-15,Kostanay,Oil (sunflower),284.0
+2012-07-15,Aktau,Potatoes,102.0
+2012-07-15,Aktau,Meat (beef),1285.0
+2012-07-15,Aktau,Oil (sunflower),328.0
+2012-08-15,Nur-Sultan,Potatoes,85.0
+2012-08-15,Nur-Sultan,Wheat flour (first grade),90.0
+2012-08-15,Nur-Sultan,Meat (beef),1390.0
+2012-08-15,Nur-Sultan,Milk,125.0
+2012-08-15,Almaty,Potatoes,65.0
+2012-08-15,Almaty,Meat (beef),1423.0
+2012-08-15,Almaty,Milk,154.0
+2012-08-15,Almaty,Oil (sunflower),293.0
+2012-08-15,Kostanay,Potatoes,65.0
+2012-08-15,Kostanay,Wheat flour (first grade),58.0
+2012-08-15,Kostanay,Meat (beef),1020.0
+2012-08-15,Kostanay,Milk,100.0
+2012-08-15,Kostanay,Oil (sunflower),284.0
+2012-08-15,Aktau,Potatoes,102.0
+2012-08-15,Aktau,Meat (beef),1285.0
+2012-08-15,Aktau,Oil (sunflower),328.0
+2012-09-15,Nur-Sultan,Potatoes,77.0
+2012-09-15,Nur-Sultan,Wheat flour (first grade),104.0
+2012-09-15,Nur-Sultan,Meat (beef),1390.0
+2012-09-15,Nur-Sultan,Milk,125.0
+2012-09-15,Nur-Sultan,Oil (sunflower),309.0
+2012-09-15,Almaty,Potatoes,67.0
+2012-09-15,Almaty,Meat (beef),1428.0
+2012-09-15,Almaty,Milk,154.0
+2012-09-15,Almaty,Oil (sunflower),301.0
+2012-09-15,Kostanay,Potatoes,65.0
+2012-09-15,Kostanay,Wheat flour (first grade),60.0
+2012-09-15,Kostanay,Meat (beef),1020.0
+2012-09-15,Kostanay,Milk,100.0
+2012-09-15,Kostanay,Oil (sunflower),284.0
+2012-09-15,Aktau,Potatoes,103.0
+2012-09-15,Aktau,Meat (beef),1285.0
+2012-09-15,Aktau,Oil (sunflower),328.0
+2012-10-15,Nur-Sultan,Potatoes,77.0
+2012-10-15,Nur-Sultan,Meat (beef),1390.0
+2012-10-15,Nur-Sultan,Milk,125.0
+2012-10-15,Nur-Sultan,Oil (sunflower),332.0
+2012-10-15,Almaty,Potatoes,67.0
+2012-10-15,Almaty,Meat (beef),1428.0
+2012-10-15,Almaty,Milk,155.0
+2012-10-15,Almaty,Oil (sunflower),305.0
+2012-10-15,Kostanay,Potatoes,67.0
+2012-10-15,Kostanay,Wheat flour (first grade),60.0
+2012-10-15,Kostanay,Meat (beef),1020.0
+2012-10-15,Kostanay,Milk,102.0
+2012-10-15,Kostanay,Oil (sunflower),284.0
+2012-10-15,Aktau,Potatoes,102.0
+2012-10-15,Aktau,Meat (beef),1285.0
+2012-11-15,Nur-Sultan,Potatoes,76.0
+2012-11-15,Nur-Sultan,Meat (beef),1390.0
+2012-11-15,Nur-Sultan,Oil (sunflower),337.0
+2012-11-15,Almaty,Potatoes,68.0
+2012-11-15,Almaty,Meat (beef),1433.0
+2012-11-15,Almaty,Milk,156.0
+2012-11-15,Almaty,Oil (sunflower),313.0
+2012-11-15,Kostanay,Potatoes,67.0
+2012-11-15,Kostanay,Wheat flour (first grade),60.0
+2012-11-15,Kostanay,Meat (beef),1049.0
+2012-11-15,Kostanay,Milk,102.0
+2012-11-15,Kostanay,Oil (sunflower),295.0
+2012-11-15,Aktau,Potatoes,97.0
+2012-11-15,Aktau,Wheat flour (first grade),118.0
+2012-11-15,Aktau,Meat (beef),1285.0
+2012-12-15,Nur-Sultan,Potatoes,78.0
+2012-12-15,Nur-Sultan,Wheat flour (first grade),95.0
+2012-12-15,Nur-Sultan,Meat (beef),1390.0
+2012-12-15,Nur-Sultan,Milk,125.0
+2012-12-15,Almaty,Potatoes,69.0
+2012-12-15,Almaty,Wheat flour (first grade),106.0
+2012-12-15,Almaty,Meat (beef),1433.0
+2012-12-15,Almaty,Milk,161.0
+2012-12-15,Almaty,Oil (sunflower),315.0
+2012-12-15,Kostanay,Potatoes,67.0
+2012-12-15,Kostanay,Meat (beef),1049.0
+2012-12-15,Kostanay,Milk,102.0
+2012-12-15,Kostanay,Oil (sunflower),295.0
+2012-12-15,Aktau,Potatoes,97.0
+2012-12-15,Aktau,Wheat flour (first grade),118.0
+2012-12-15,Aktau,Meat (beef),1285.0
+2012-12-15,Aktau,Oil (sunflower),354.0
+2013-01-15,Nur-Sultan,Potatoes,95.0
+2013-01-15,Nur-Sultan,Meat (beef),1390.0
+2013-01-15,Nur-Sultan,Milk,125.0
+2013-01-15,Nur-Sultan,Oil (sunflower),338.0
+2013-01-15,Almaty,Potatoes,71.0
+2013-01-15,Almaty,Wheat flour (first grade),108.0
+2013-01-15,Almaty,Meat (beef),1440.0
+2013-01-15,Almaty,Milk,163.0
+2013-01-15,Almaty,Oil (sunflower),316.0
+2013-01-15,Kostanay,Potatoes,67.0
+2013-01-15,Kostanay,Meat (beef),1049.0
+2013-01-15,Kostanay,Milk,110.0
+2013-01-15,Aktau,Potatoes,100.0
+2013-01-15,Aktau,Wheat flour (first grade),118.0
+2013-01-15,Aktau,Meat (beef),1285.0
+2013-01-15,Aktau,Oil (sunflower),357.0
+2013-02-15,Nur-Sultan,Potatoes,91.0
+2013-02-15,Nur-Sultan,Meat (beef),1362.0
+2013-02-15,Nur-Sultan,Milk,125.0
+2013-02-15,Nur-Sultan,Oil (sunflower),353.0
+2013-02-15,Almaty,Potatoes,75.0
+2013-02-15,Almaty,Wheat flour (first grade),109.0
+2013-02-15,Almaty,Meat (beef),1440.0
+2013-02-15,Almaty,Milk,165.0
+2013-02-15,Almaty,Oil (sunflower),318.0
+2013-02-15,Kostanay,Potatoes,67.0
+2013-02-15,Kostanay,Meat (beef),1049.0
+2013-02-15,Kostanay,Milk,110.0
+2013-02-15,Aktau,Potatoes,102.0
+2013-02-15,Aktau,Wheat flour (first grade),118.0
+2013-02-15,Aktau,Meat (beef),1214.0
+2013-02-15,Aktau,Oil (sunflower),357.0
+2013-03-15,Nur-Sultan,Potatoes,89.0
+2013-03-15,Nur-Sultan,Meat (beef),1362.0
+2013-03-15,Nur-Sultan,Milk,125.0
+2013-03-15,Nur-Sultan,Oil (sunflower),348.0
+2013-03-15,Almaty,Potatoes,79.0
+2013-03-15,Almaty,Wheat flour (first grade),109.0
+2013-03-15,Almaty,Meat (beef),1450.0
+2013-03-15,Almaty,Milk,166.0
+2013-03-15,Almaty,Oil (sunflower),318.0
+2013-03-15,Kostanay,Potatoes,67.0
+2013-03-15,Kostanay,Meat (beef),1049.0
+2013-03-15,Aktau,Potatoes,102.0
+2013-03-15,Aktau,Wheat flour (first grade),118.0
+2013-03-15,Aktau,Meat (beef),1214.0
+2013-03-15,Aktau,Oil (sunflower),357.0
+2013-04-15,Nur-Sultan,Potatoes,93.0
+2013-04-15,Nur-Sultan,Meat (beef),1362.0
+2013-04-15,Nur-Sultan,Milk,125.0
+2013-04-15,Nur-Sultan,Oil (sunflower),343.0
+2013-04-15,Almaty,Potatoes,79.0
+2013-04-15,Almaty,Wheat flour (first grade),109.0
+2013-04-15,Almaty,Meat (beef),1460.0
+2013-04-15,Almaty,Milk,160.0
+2013-04-15,Almaty,Oil (sunflower),314.0
+2013-04-15,Kostanay,Potatoes,67.0
+2013-04-15,Kostanay,Wheat flour (first grade),60.0
+2013-04-15,Kostanay,Meat (beef),1049.0
+2013-04-15,Kostanay,Milk,110.0
+2013-04-15,Aktau,Potatoes,104.0
+2013-04-15,Aktau,Wheat flour (first grade),118.0
+2013-04-15,Aktau,Meat (beef),1214.0
+2013-04-15,Aktau,Oil (sunflower),357.0
+2013-05-15,Nur-Sultan,Potatoes,131.0
+2013-05-15,Nur-Sultan,Meat (beef),1362.0
+2013-05-15,Nur-Sultan,Milk,125.0
+2013-05-15,Nur-Sultan,Oil (sunflower),337.0
+2013-05-15,Almaty,Potatoes,84.0
+2013-05-15,Almaty,Wheat flour (first grade),109.0
+2013-05-15,Almaty,Meat (beef),1460.0
+2013-05-15,Almaty,Milk,153.0
+2013-05-15,Kostanay,Potatoes,67.0
+2013-05-15,Kostanay,Meat (beef),1049.0
+2013-05-15,Kostanay,Milk,110.0
+2013-05-15,Kostanay,Oil (sunflower),303.0
+2013-05-15,Aktau,Potatoes,108.0
+2013-05-15,Aktau,Wheat flour (first grade),118.0
+2013-05-15,Aktau,Meat (beef),1214.0
+2013-05-15,Aktau,Oil (sunflower),348.0
+2013-06-15,Nur-Sultan,Potatoes,164.0
+2013-06-15,Nur-Sultan,Meat (beef),1362.0
+2013-06-15,Nur-Sultan,Milk,125.0
+2013-06-15,Nur-Sultan,Oil (sunflower),337.0
+2013-06-15,Almaty,Potatoes,89.0
+2013-06-15,Almaty,Wheat flour (first grade),108.0
+2013-06-15,Almaty,Meat (beef),1460.0
+2013-06-15,Almaty,Milk,151.0
+2013-06-15,Kostanay,Potatoes,72.0
+2013-06-15,Kostanay,Meat (beef),1049.0
+2013-06-15,Kostanay,Milk,110.0
+2013-06-15,Kostanay,Oil (sunflower),302.0
+2013-06-15,Aktau,Potatoes,112.0
+2013-06-15,Aktau,Wheat flour (first grade),120.0
+2013-06-15,Aktau,Meat (beef),1203.0
+2013-06-15,Aktau,Oil (sunflower),348.0
+2013-07-15,Nur-Sultan,Potatoes,166.0
+2013-07-15,Nur-Sultan,Wheat flour (first grade),102.0
+2013-07-15,Nur-Sultan,Meat (beef),1346.0
+2013-07-15,Nur-Sultan,Milk,125.0
+2013-07-15,Nur-Sultan,Oil (sunflower),333.0
+2013-07-15,Almaty,Potatoes,91.0
+2013-07-15,Almaty,Meat (beef),1460.0
+2013-07-15,Almaty,Milk,143.0
+2013-07-15,Almaty,Oil (sunflower),309.0
+2013-07-15,Kostanay,Potatoes,77.0
+2013-07-15,Kostanay,Meat (beef),1049.0
+2013-07-15,Kostanay,Milk,110.0
+2013-07-15,Kostanay,Oil (sunflower),302.0
+2013-07-15,Aktau,Potatoes,125.0
+2013-07-15,Aktau,Meat (beef),1203.0
+2013-07-15,Aktau,Oil (sunflower),348.0
+2013-08-15,Nur-Sultan,Potatoes,123.0
+2013-08-15,Nur-Sultan,Meat (beef),1305.0
+2013-08-15,Nur-Sultan,Milk,125.0
+2013-08-15,Nur-Sultan,Oil (sunflower),330.0
+2013-08-15,Almaty,Potatoes,90.0
+2013-08-15,Almaty,Meat (beef),1460.0
+2013-08-15,Almaty,Milk,143.0
+2013-08-15,Almaty,Oil (sunflower),309.0
+2013-08-15,Kostanay,Potatoes,77.0
+2013-08-15,Kostanay,Meat (beef),1049.0
+2013-08-15,Kostanay,Milk,110.0
+2013-08-15,Aktau,Potatoes,137.0
+2013-08-15,Aktau,Meat (beef),1203.0
+2013-08-15,Aktau,Oil (sunflower),348.0
+2013-09-15,Nur-Sultan,Potatoes,74.0
+2013-09-15,Nur-Sultan,Wheat flour (first grade),102.0
+2013-09-15,Nur-Sultan,Meat (beef),1305.0
+2013-09-15,Nur-Sultan,Milk,125.0
+2013-09-15,Nur-Sultan,Oil (sunflower),330.0
+2013-09-15,Almaty,Potatoes,87.0
+2013-09-15,Almaty,Meat (beef),1460.0
+2013-09-15,Almaty,Milk,143.0
+2013-09-15,Almaty,Oil (sunflower),308.0
+2013-09-15,Kostanay,Potatoes,70.0
+2013-09-15,Kostanay,Wheat flour (first grade),60.0
+2013-09-15,Kostanay,Meat (beef),1049.0
+2013-09-15,Kostanay,Milk,116.0
+2013-09-15,Aktau,Potatoes,123.0
+2013-09-15,Aktau,Wheat flour (first grade),120.0
+2013-09-15,Aktau,Meat (beef),1203.0
+2013-09-15,Aktau,Oil (sunflower),339.0
+2013-10-15,Nur-Sultan,Potatoes,57.0
+2013-10-15,Nur-Sultan,Meat (beef),1305.0
+2013-10-15,Nur-Sultan,Milk,125.0
+2013-10-15,Nur-Sultan,Oil (sunflower),323.0
+2013-10-15,Almaty,Potatoes,85.0
+2013-10-15,Almaty,Meat (beef),1460.0
+2013-10-15,Almaty,Milk,147.0
+2013-10-15,Kostanay,Potatoes,60.0
+2013-10-15,Kostanay,Wheat flour (first grade),60.0
+2013-10-15,Kostanay,Meat (beef),1049.0
+2013-10-15,Kostanay,Milk,116.0
+2013-10-15,Kostanay,Oil (sunflower),300.0
+2013-10-15,Aktau,Potatoes,116.0
+2013-10-15,Aktau,Meat (beef),1203.0
+2013-11-15,Nur-Sultan,Potatoes,69.0
+2013-11-15,Nur-Sultan,Wheat flour (first grade),101.0
+2013-11-15,Nur-Sultan,Meat (beef),1305.0
+2013-11-15,Nur-Sultan,Oil (sunflower),322.0
+2013-11-15,Almaty,Potatoes,85.0
+2013-11-15,Almaty,Meat (beef),1460.0
+2013-11-15,Almaty,Milk,150.0
+2013-11-15,Kostanay,Potatoes,58.0
+2013-11-15,Kostanay,Wheat flour (first grade),60.0
+2013-11-15,Kostanay,Meat (beef),1049.0
+2013-11-15,Kostanay,Milk,116.0
+2013-11-15,Kostanay,Oil (sunflower),298.0
+2013-11-15,Aktau,Potatoes,108.0
+2013-11-15,Aktau,Meat (beef),1203.0
+2013-11-15,Aktau,Oil (sunflower),339.0
+2013-12-15,Nur-Sultan,Potatoes,69.0
+2013-12-15,Nur-Sultan,Meat (beef),1326.0
+2013-12-15,Nur-Sultan,Milk,125.0
+2013-12-15,Almaty,Potatoes,86.0
+2013-12-15,Almaty,Wheat flour (first grade),109.0
+2013-12-15,Almaty,Meat (beef),1460.0
+2013-12-15,Almaty,Milk,150.0
+2013-12-15,Almaty,Oil (sunflower),289.0
+2013-12-15,Kostanay,Potatoes,62.0
+2013-12-15,Kostanay,Wheat flour (first grade),61.0
+2013-12-15,Kostanay,Meat (beef),1049.0
+2013-12-15,Kostanay,Milk,116.0
+2013-12-15,Kostanay,Oil (sunflower),300.0
+2013-12-15,Aktau,Potatoes,106.0
+2013-12-15,Aktau,Meat (beef),1203.0
+2013-12-15,Aktau,Oil (sunflower),336.0
+2014-01-15,Nur-Sultan,Potatoes,79.0
+2014-01-15,Nur-Sultan,Meat (beef),1312.0
+2014-01-15,Nur-Sultan,Milk,125.0
+2014-01-15,Nur-Sultan,Oil (sunflower),321.0
+2014-01-15,Almaty,Potatoes,88.0
+2014-01-15,Almaty,Wheat flour (first grade),109.0
+2014-01-15,Almaty,Meat (beef),1440.0
+2014-01-15,Almaty,Milk,161.0
+2014-01-15,Almaty,Oil (sunflower),284.0
+2014-01-15,Kostanay,Potatoes,73.0
+2014-01-15,Kostanay,Wheat flour (first grade),61.0
+2014-01-15,Kostanay,Meat (beef),1049.0
+2014-01-15,Kostanay,Milk,116.0
+2014-01-15,Kostanay,Oil (sunflower),298.0
+2014-01-15,Aktau,Potatoes,106.0
+2014-01-15,Aktau,Wheat flour (first grade),120.0
+2014-01-15,Aktau,Meat (beef),1203.0
+2014-01-15,Aktau,Oil (sunflower),325.0
+2014-02-15,Nur-Sultan,Potatoes,85.0
+2014-02-15,Nur-Sultan,Meat (beef),1321.0
+2014-02-15,Nur-Sultan,Milk,125.0
+2014-02-15,Nur-Sultan,Oil (sunflower),318.0
+2014-02-15,Almaty,Potatoes,96.0
+2014-02-15,Almaty,Wheat flour (first grade),109.0
+2014-02-15,Almaty,Meat (beef),1418.0
+2014-02-15,Almaty,Milk,165.0
+2014-02-15,Almaty,Oil (sunflower),284.0
+2014-02-15,Kostanay,Potatoes,78.0
+2014-02-15,Kostanay,Wheat flour (first grade),65.0
+2014-02-15,Kostanay,Meat (beef),1061.0
+2014-02-15,Kostanay,Milk,116.0
+2014-02-15,Kostanay,Oil (sunflower),293.0
+2014-02-15,Aktau,Potatoes,117.0
+2014-02-15,Aktau,Wheat flour (first grade),120.0
+2014-02-15,Aktau,Meat (beef),1203.0
+2014-02-15,Aktau,Oil (sunflower),325.0
+2014-03-15,Nur-Sultan,Potatoes,107.0
+2014-03-15,Nur-Sultan,Meat (beef),1321.0
+2014-03-15,Nur-Sultan,Milk,125.0
+2014-03-15,Nur-Sultan,Oil (sunflower),313.0
+2014-03-15,Almaty,Potatoes,106.0
+2014-03-15,Almaty,Wheat flour (first grade),109.0
+2014-03-15,Almaty,Meat (beef),1377.0
+2014-03-15,Almaty,Milk,165.0
+2014-03-15,Almaty,Oil (sunflower),289.0
+2014-03-15,Kostanay,Potatoes,90.0
+2014-03-15,Kostanay,Wheat flour (first grade),67.0
+2014-03-15,Kostanay,Meat (beef),1061.0
+2014-03-15,Kostanay,Milk,116.0
+2014-03-15,Kostanay,Oil (sunflower),293.0
+2014-03-15,Aktau,Potatoes,127.0
+2014-03-15,Aktau,Wheat flour (first grade),120.0
+2014-03-15,Aktau,Meat (beef),1203.0
+2014-03-15,Aktau,Oil (sunflower),325.0
+2014-04-15,Nur-Sultan,Potatoes,109.0
+2014-04-15,Nur-Sultan,Meat (beef),1321.0
+2014-04-15,Nur-Sultan,Milk,125.0
+2014-04-15,Nur-Sultan,Oil (sunflower),305.0
+2014-04-15,Almaty,Potatoes,121.0
+2014-04-15,Almaty,Wheat flour (first grade),109.0
+2014-04-15,Almaty,Meat (beef),1360.0
+2014-04-15,Almaty,Milk,165.0
+2014-04-15,Almaty,Oil (sunflower),285.0
+2014-04-15,Kostanay,Potatoes,90.0
+2014-04-15,Kostanay,Wheat flour (first grade),67.0
+2014-04-15,Kostanay,Meat (beef),1061.0
+2014-04-15,Kostanay,Milk,116.0
+2014-04-15,Kostanay,Oil (sunflower),291.0
+2014-04-15,Aktau,Potatoes,147.0
+2014-04-15,Aktau,Wheat flour (first grade),117.0
+2014-04-15,Aktau,Meat (beef),1209.0
+2014-05-15,Nur-Sultan,Potatoes,144.0
+2014-05-15,Nur-Sultan,Meat (beef),1321.0
+2014-05-15,Nur-Sultan,Milk,125.0
+2014-05-15,Nur-Sultan,Oil (sunflower),305.0
+2014-05-15,Almaty,Potatoes,138.0
+2014-05-15,Almaty,Wheat flour (first grade),109.0
+2014-05-15,Almaty,Meat (beef),1313.0
+2014-05-15,Almaty,Milk,165.0
+2014-05-15,Almaty,Oil (sunflower),291.0
+2014-05-15,Kostanay,Potatoes,95.0
+2014-05-15,Kostanay,Meat (beef),1061.0
+2014-05-15,Kostanay,Milk,116.0
+2014-05-15,Kostanay,Oil (sunflower),285.0
+2014-05-15,Aktau,Potatoes,156.0
+2014-05-15,Aktau,Meat (beef),1224.0
+2014-05-15,Aktau,Oil (sunflower),314.0
+2014-06-15,Nur-Sultan,Potatoes,177.0
+2014-06-15,Nur-Sultan,Meat (beef),1321.0
+2014-06-15,Nur-Sultan,Milk,125.0
+2014-06-15,Almaty,Potatoes,160.0
+2014-06-15,Almaty,Wheat flour (first grade),109.0
+2014-06-15,Almaty,Meat (beef),1313.0
+2014-06-15,Almaty,Milk,165.0
+2014-06-15,Almaty,Oil (sunflower),291.0
+2014-06-15,Kostanay,Potatoes,116.0
+2014-06-15,Kostanay,Meat (beef),1061.0
+2014-06-15,Kostanay,Milk,116.0
+2014-06-15,Kostanay,Oil (sunflower),285.0
+2014-06-15,Aktau,Potatoes,201.0
+2014-06-15,Aktau,Wheat flour (first grade),118.0
+2014-06-15,Aktau,Meat (beef),1238.0
+2014-06-15,Aktau,Oil (sunflower),322.0
+2014-07-15,Nur-Sultan,Potatoes,127.0
+2014-07-15,Nur-Sultan,Wheat flour (first grade),134.0
+2014-07-15,Nur-Sultan,Meat (beef),1269.0
+2014-07-15,Nur-Sultan,Milk,125.0
+2014-07-15,Nur-Sultan,Oil (sunflower),302.0
+2014-07-15,Almaty,Potatoes,139.0
+2014-07-15,Almaty,Meat (beef),1336.0
+2014-07-15,Almaty,Milk,165.0
+2014-07-15,Almaty,Oil (sunflower),286.0
+2014-07-15,Kostanay,Potatoes,125.0
+2014-07-15,Kostanay,Meat (beef),1061.0
+2014-07-15,Kostanay,Milk,116.0
+2014-07-15,Aktau,Potatoes,178.0
+2014-07-15,Aktau,Wheat flour (first grade),118.0
+2014-07-15,Aktau,Meat (beef),1238.0
+2014-07-15,Aktau,Oil (sunflower),322.0
+2014-08-15,Nur-Sultan,Potatoes,93.0
+2014-08-15,Nur-Sultan,Meat (beef),1286.0
+2014-08-15,Nur-Sultan,Milk,125.0
+2014-08-15,Nur-Sultan,Oil (sunflower),302.0
+2014-08-15,Almaty,Potatoes,82.0
+2014-08-15,Almaty,Meat (beef),1336.0
+2014-08-15,Almaty,Milk,165.0
+2014-08-15,Almaty,Oil (sunflower),283.0
+2014-08-15,Kostanay,Potatoes,112.0
+2014-08-15,Kostanay,Meat (beef),1074.0
+2014-08-15,Aktau,Potatoes,128.0
+2014-08-15,Aktau,Wheat flour (first grade),128.0
+2014-08-15,Aktau,Meat (beef),1238.0
+2014-08-15,Aktau,Oil (sunflower),321.0
+2014-09-15,Nur-Sultan,Potatoes,74.0
+2014-09-15,Nur-Sultan,Meat (beef),1286.0
+2014-09-15,Nur-Sultan,Milk,125.0
+2014-09-15,Nur-Sultan,Oil (sunflower),302.0
+2014-09-15,Almaty,Potatoes,77.0
+2014-09-15,Almaty,Meat (beef),1336.0
+2014-09-15,Almaty,Milk,165.0
+2014-09-15,Almaty,Oil (sunflower),283.0
+2014-09-15,Kostanay,Potatoes,75.0
+2014-09-15,Kostanay,Wheat flour (first grade),78.0
+2014-09-15,Kostanay,Meat (beef),1074.0
+2014-09-15,Aktau,Potatoes,117.0
+2014-09-15,Aktau,Wheat flour (first grade),128.0
+2014-09-15,Aktau,Meat (beef),1253.0
+2014-09-15,Aktau,Oil (sunflower),321.0
+2014-10-15,Nur-Sultan,Potatoes,73.0
+2014-10-15,Nur-Sultan,Meat (beef),1286.0
+2014-10-15,Nur-Sultan,Oil (sunflower),303.0
+2014-10-15,Almaty,Potatoes,82.0
+2014-10-15,Almaty,Meat (beef),1336.0
+2014-10-15,Almaty,Milk,169.0
+2014-10-15,Kostanay,Potatoes,76.0
+2014-10-15,Kostanay,Meat (beef),1074.0
+2014-10-15,Kostanay,Milk,116.0
+2014-10-15,Kostanay,Oil (sunflower),285.0
+2014-10-15,Aktau,Potatoes,111.0
+2014-10-15,Aktau,Wheat flour (first grade),128.0
+2014-10-15,Aktau,Meat (beef),1267.0
+2014-11-15,Nur-Sultan,Potatoes,90.0
+2014-11-15,Nur-Sultan,Wheat flour (first grade),140.0
+2014-11-15,Nur-Sultan,Meat (beef),1286.0
+2014-11-15,Nur-Sultan,Milk,125.0
+2014-11-15,Nur-Sultan,Oil (sunflower),303.0
+2014-11-15,Almaty,Potatoes,90.0
+2014-11-15,Almaty,Wheat flour (first grade),125.0
+2014-11-15,Almaty,Meat (beef),1359.0
+2014-11-15,Almaty,Milk,172.0
+2014-11-15,Kostanay,Potatoes,84.0
+2014-11-15,Kostanay,Meat (beef),1100.0
+2014-11-15,Kostanay,Milk,116.0
+2014-11-15,Kostanay,Oil (sunflower),285.0
+2014-11-15,Aktau,Potatoes,116.0
+2014-11-15,Aktau,Wheat flour (first grade),132.0
+2014-11-15,Aktau,Meat (beef),1267.0
+2014-12-15,Nur-Sultan,Potatoes,96.0
+2014-12-15,Nur-Sultan,Meat (beef),1286.0
+2014-12-15,Nur-Sultan,Milk,130.0
+2014-12-15,Almaty,Potatoes,104.0
+2014-12-15,Almaty,Meat (beef),1359.0
+2014-12-15,Almaty,Milk,176.0
+2014-12-15,Almaty,Oil (sunflower),292.0
+2014-12-15,Kostanay,Potatoes,88.0
+2014-12-15,Kostanay,Wheat flour (first grade),79.0
+2014-12-15,Kostanay,Meat (beef),1100.0
+2014-12-15,Kostanay,Milk,116.0
+2014-12-15,Kostanay,Oil (sunflower),285.0
+2014-12-15,Aktau,Potatoes,121.0
+2014-12-15,Aktau,Meat (beef),1267.0
+2014-12-15,Aktau,Oil (sunflower),325.0
+2015-01-15,Nur-Sultan,Potatoes,96.0
+2015-01-15,Nur-Sultan,Meat (beef),1273.0
+2015-01-15,Nur-Sultan,Oil (sunflower),317.0
+2015-01-15,Almaty,Potatoes,114.0
+2015-01-15,Almaty,Wheat flour (first grade),129.0
+2015-01-15,Almaty,Meat (beef),1380.0
+2015-01-15,Almaty,Milk,180.0
+2015-01-15,Almaty,Oil (sunflower),297.0
+2015-01-15,Kostanay,Potatoes,90.0
+2015-01-15,Kostanay,Wheat flour (first grade),79.0
+2015-01-15,Kostanay,Meat (beef),1100.0
+2015-01-15,Kostanay,Milk,121.0
+2015-01-15,Kostanay,Oil (sunflower),285.0
+2015-01-15,Aktau,Potatoes,125.0
+2015-01-15,Aktau,Wheat flour (first grade),132.0
+2015-01-15,Aktau,Meat (beef),1267.0
+2015-02-15,Nur-Sultan,Potatoes,95.0
+2015-02-15,Nur-Sultan,Meat (beef),1273.0
+2015-02-15,Nur-Sultan,Oil (sunflower),303.0
+2015-02-15,Almaty,Potatoes,114.0
+2015-02-15,Almaty,Wheat flour (first grade),130.0
+2015-02-15,Almaty,Meat (beef),1315.0
+2015-02-15,Almaty,Milk,187.0
+2015-02-15,Kostanay,Potatoes,90.0
+2015-02-15,Kostanay,Wheat flour (first grade),79.0
+2015-02-15,Kostanay,Meat (beef),1100.0
+2015-02-15,Kostanay,Milk,121.0
+2015-02-15,Kostanay,Oil (sunflower),282.0
+2015-02-15,Aktau,Potatoes,119.0
+2015-02-15,Aktau,Meat (beef),1281.0
+2015-03-15,Nur-Sultan,Potatoes,91.0
+2015-03-15,Nur-Sultan,Meat (beef),1273.0
+2015-03-15,Nur-Sultan,Oil (sunflower),303.0
+2015-03-15,Almaty,Potatoes,114.0
+2015-03-15,Almaty,Wheat flour (first grade),130.0
+2015-03-15,Almaty,Meat (beef),1315.0
+2015-03-15,Almaty,Milk,191.0
+2015-03-15,Almaty,Oil (sunflower),271.0
+2015-03-15,Kostanay,Potatoes,90.0
+2015-03-15,Kostanay,Wheat flour (first grade),79.0
+2015-03-15,Kostanay,Meat (beef),1067.0
+2015-03-15,Kostanay,Milk,121.0
+2015-03-15,Kostanay,Oil (sunflower),282.0
+2015-03-15,Aktau,Potatoes,119.0
+2015-03-15,Aktau,Wheat flour (first grade),132.0
+2015-03-15,Aktau,Meat (beef),1281.0
+2015-04-15,Nur-Sultan,Potatoes,91.0
+2015-04-15,Nur-Sultan,Wheat flour (first grade),140.0
+2015-04-15,Nur-Sultan,Meat (beef),1273.0
+2015-04-15,Nur-Sultan,Oil (sunflower),298.0
+2015-04-15,Almaty,Potatoes,117.0
+2015-04-15,Almaty,Wheat flour (first grade),130.0
+2015-04-15,Almaty,Meat (beef),1280.0
+2015-04-15,Almaty,Milk,191.0
+2015-04-15,Kostanay,Potatoes,96.0
+2015-04-15,Kostanay,Wheat flour (first grade),80.0
+2015-04-15,Kostanay,Meat (beef),1067.0
+2015-04-15,Kostanay,Milk,132.0
+2015-04-15,Kostanay,Oil (sunflower),282.0
+2015-04-15,Aktau,Potatoes,119.0
+2015-04-15,Aktau,Meat (beef),1297.0
+2015-05-15,Nur-Sultan,Potatoes,101.0
+2015-05-15,Nur-Sultan,Meat (beef),1175.0
+2015-05-15,Almaty,Potatoes,109.0
+2015-05-15,Almaty,Wheat flour (first grade),130.0
+2015-05-15,Almaty,Meat (beef),1280.0
+2015-05-15,Almaty,Milk,191.0
+2015-05-15,Almaty,Oil (sunflower),276.0
+2015-05-15,Kostanay,Potatoes,96.0
+2015-05-15,Kostanay,Meat (beef),1067.0
+2015-05-15,Kostanay,Oil (sunflower),284.0
+2015-05-15,Aktau,Potatoes,127.0
+2015-05-15,Aktau,Wheat flour (first grade),132.0
+2015-05-15,Aktau,Meat (beef),1297.0
+2015-05-15,Aktau,Oil (sunflower),312.0
+2015-06-15,Nur-Sultan,Potatoes,105.0
+2015-06-15,Nur-Sultan,Meat (beef),1175.0
+2015-06-15,Almaty,Potatoes,122.0
+2015-06-15,Almaty,Wheat flour (first grade),130.0
+2015-06-15,Almaty,Meat (beef),1269.0
+2015-06-15,Almaty,Milk,191.0
+2015-06-15,Almaty,Oil (sunflower),270.0
+2015-06-15,Kostanay,Potatoes,99.0
+2015-06-15,Kostanay,Meat (beef),1067.0
+2015-06-15,Kostanay,Oil (sunflower),284.0
+2015-06-15,Aktau,Potatoes,129.0
+2015-06-15,Aktau,Meat (beef),1286.0
+2015-06-15,Aktau,Oil (sunflower),312.0
+2015-07-15,Nur-Sultan,Potatoes,85.0
+2015-07-15,Nur-Sultan,Meat (beef),1175.0
+2015-07-15,Nur-Sultan,Oil (sunflower),294.0
+2015-07-15,Almaty,Potatoes,93.0
+2015-07-15,Almaty,Wheat flour (first grade),130.0
+2015-07-15,Almaty,Meat (beef),1269.0
+2015-07-15,Almaty,Milk,191.0
+2015-07-15,Almaty,Oil (sunflower),270.0
+2015-07-15,Kostanay,Potatoes,99.0
+2015-07-15,Kostanay,Wheat flour (first grade),84.0
+2015-07-15,Kostanay,Meat (beef),1067.0
+2015-07-15,Kostanay,Milk,132.0
+2015-07-15,Aktau,Potatoes,113.0
+2015-07-15,Aktau,Wheat flour (first grade),133.0
+2015-07-15,Aktau,Meat (beef),1297.0
+2015-07-15,Aktau,Oil (sunflower),312.0
+2015-08-15,Nur-Sultan,Potatoes,82.0
+2015-08-15,Nur-Sultan,Meat (beef),1165.0
+2015-08-15,Nur-Sultan,Oil (sunflower),303.0
+2015-08-15,Almaty,Potatoes,73.0
+2015-08-15,Almaty,Meat (beef),1286.0
+2015-08-15,Almaty,Milk,191.0
+2015-08-15,Almaty,Oil (sunflower),267.0
+2015-08-15,Kostanay,Potatoes,83.0
+2015-08-15,Kostanay,Meat (beef),1067.0
+2015-08-15,Aktau,Potatoes,102.0
+2015-08-15,Aktau,Wheat flour (first grade),133.0
+2015-08-15,Aktau,Meat (beef),1297.0
+2015-09-15,Nur-Sultan,Potatoes,64.0
+2015-09-15,Nur-Sultan,Meat (beef),1160.0
+2015-09-15,Nur-Sultan,Oil (sunflower),303.0
+2015-09-15,Almaty,Potatoes,80.0
+2015-09-15,Almaty,Wheat flour (first grade),130.0
+2015-09-15,Almaty,Meat (beef),1297.0
+2015-09-15,Almaty,Milk,194.0
+2015-09-15,Almaty,Oil (sunflower),270.0
+2015-09-15,Kostanay,Potatoes,70.0
+2015-09-15,Kostanay,Wheat flour (first grade),87.0
+2015-09-15,Kostanay,Meat (beef),1067.0
+2015-09-15,Aktau,Potatoes,98.0
+2015-09-15,Aktau,Wheat flour (first grade),133.0
+2015-09-15,Aktau,Meat (beef),1297.0
+2015-09-15,Aktau,Oil (sunflower),310.0
+2015-10-15,Nur-Sultan,Potatoes,73.0
+2015-10-15,Nur-Sultan,Meat (beef),1160.0
+2015-10-15,Nur-Sultan,Oil (sunflower),344.0
+2015-10-15,Almaty,Potatoes,88.0
+2015-10-15,Almaty,Meat (beef),1304.0
+2015-10-15,Almaty,Milk,204.0
+2015-10-15,Kostanay,Potatoes,70.0
+2015-10-15,Kostanay,Meat (beef),1067.0
+2015-10-15,Kostanay,Oil (sunflower),346.0
+2015-10-15,Aktau,Potatoes,97.0
+2015-10-15,Aktau,Wheat flour (first grade),134.0
+2015-10-15,Aktau,Meat (beef),1297.0
+2015-10-15,Aktau,Oil (sunflower),348.0
+2015-11-15,Nur-Sultan,Potatoes,74.0
+2015-11-15,Nur-Sultan,Wheat flour (first grade),136.0
+2015-11-15,Nur-Sultan,Meat (beef),1161.0
+2015-11-15,Nur-Sultan,Oil (sunflower),412.0
+2015-11-15,Almaty,Potatoes,88.0
+2015-11-15,Almaty,Wheat flour (first grade),140.0
+2015-11-15,Almaty,Meat (beef),1337.0
+2015-11-15,Almaty,Milk,211.0
+2015-11-15,Almaty,Oil (sunflower),394.0
+2015-11-15,Kostanay,Potatoes,72.0
+2015-11-15,Kostanay,Meat (beef),1067.0
+2015-11-15,Kostanay,Milk,140.0
+2015-11-15,Kostanay,Oil (sunflower),410.0
+2015-11-15,Aktau,Potatoes,99.0
+2015-11-15,Aktau,Wheat flour (first grade),155.0
+2015-11-15,Aktau,Meat (beef),1299.0
+2015-11-15,Aktau,Oil (sunflower),411.0
+2015-12-15,Nur-Sultan,Potatoes,74.0
+2015-12-15,Nur-Sultan,Wheat flour (first grade),136.0
+2015-12-15,Nur-Sultan,Meat (beef),1229.0
+2015-12-15,Nur-Sultan,Oil (sunflower),416.0
+2015-12-15,Almaty,Potatoes,91.0
+2015-12-15,Almaty,Meat (beef),1368.0
+2015-12-15,Almaty,Milk,217.0
+2015-12-15,Almaty,Oil (sunflower),398.0
+2015-12-15,Kostanay,Potatoes,75.0
+2015-12-15,Kostanay,Meat (beef),1025.0
+2015-12-15,Kostanay,Milk,150.0
+2015-12-15,Kostanay,Oil (sunflower),411.0
+2015-12-15,Aktau,Potatoes,98.0
+2015-12-15,Aktau,Meat (beef),1304.0
+2015-12-15,Aktau,Oil (sunflower),411.0
+2016-01-15,Nur-Sultan,Potatoes,74.0
+2016-01-15,Nur-Sultan,Meat (beef),1229.0
+2016-01-15,Nur-Sultan,Oil (sunflower),438.0
+2016-01-15,Almaty,Potatoes,103.0
+2016-01-15,Almaty,Wheat flour (first grade),140.0
+2016-01-15,Almaty,Meat (beef),1336.0
+2016-01-15,Almaty,Milk,223.0
+2016-01-15,Kostanay,Potatoes,76.0
+2016-01-15,Kostanay,Wheat flour (first grade),101.0
+2016-01-15,Kostanay,Meat (beef),1025.0
+2016-01-15,Kostanay,Milk,150.0
+2016-01-15,Kostanay,Oil (sunflower),411.0
+2016-01-15,Aktau,Potatoes,100.0
+2016-01-15,Aktau,Wheat flour (first grade),159.0
+2016-01-15,Aktau,Meat (beef),1304.0
+2016-02-15,Nur-Sultan,Potatoes,70.0
+2016-02-15,Nur-Sultan,Meat (beef),1229.0
+2016-02-15,Nur-Sultan,Oil (sunflower),463.0
+2016-02-15,Almaty,Potatoes,90.0
+2016-02-15,Almaty,Wheat flour (first grade),141.0
+2016-02-15,Almaty,Meat (beef),1336.0
+2016-02-15,Almaty,Milk,223.0
+2016-02-15,Kostanay,Potatoes,76.0
+2016-02-15,Kostanay,Meat (beef),1025.0
+2016-02-15,Kostanay,Milk,150.0
+2016-02-15,Kostanay,Oil (sunflower),414.0
+2016-02-15,Aktau,Potatoes,102.0
+2016-02-15,Aktau,Wheat flour (first grade),159.0
+2016-02-15,Aktau,Meat (beef),1324.0
+2016-03-15,Nur-Sultan,Potatoes,69.0
+2016-03-15,Nur-Sultan,Meat (beef),1229.0
+2016-03-15,Nur-Sultan,Oil (sunflower),463.0
+2016-03-15,Almaty,Potatoes,85.0
+2016-03-15,Almaty,Wheat flour (first grade),137.0
+2016-03-15,Almaty,Meat (beef),1297.0
+2016-03-15,Almaty,Milk,223.0
+2016-03-15,Almaty,Oil (sunflower),419.0
+2016-03-15,Kostanay,Potatoes,71.0
+2016-03-15,Kostanay,Meat (beef),1025.0
+2016-03-15,Kostanay,Milk,150.0
+2016-03-15,Aktau,Potatoes,102.0
+2016-03-15,Aktau,Wheat flour (first grade),159.0
+2016-03-15,Aktau,Meat (beef),1324.0
+2016-03-15,Aktau,Oil (sunflower),440.0
+2016-04-15,Nur-Sultan,Potatoes,64.0
+2016-04-15,Nur-Sultan,Meat (beef),1308.0
+2016-04-15,Nur-Sultan,Oil (sunflower),463.0
+2016-04-15,Almaty,Potatoes,89.0
+2016-04-15,Almaty,Wheat flour (first grade),133.0
+2016-04-15,Almaty,Meat (beef),1304.0
+2016-04-15,Almaty,Milk,223.0
+2016-04-15,Almaty,Oil (sunflower),439.0
+2016-04-15,Kostanay,Potatoes,68.0
+2016-04-15,Kostanay,Meat (beef),1025.0
+2016-04-15,Kostanay,Milk,150.0
+2016-04-15,Aktau,Potatoes,102.0
+2016-04-15,Aktau,Wheat flour (first grade),159.0
+2016-04-15,Aktau,Meat (beef),1338.0
+2016-05-15,Nur-Sultan,Potatoes,83.0
+2016-05-15,Nur-Sultan,Meat (beef),1308.0
+2016-05-15,Nur-Sultan,Oil (sunflower),460.0
+2016-05-15,Almaty,Potatoes,96.0
+2016-05-15,Almaty,Wheat flour (first grade),133.0
+2016-05-15,Almaty,Meat (beef),1304.0
+2016-05-15,Almaty,Milk,223.0
+2016-05-15,Kostanay,Potatoes,69.0
+2016-05-15,Kostanay,Meat (beef),1025.0
+2016-05-15,Kostanay,Milk,130.0
+2016-05-15,Kostanay,Oil (sunflower),424.0
+2016-05-15,Aktau,Potatoes,108.0
+2016-05-15,Aktau,Wheat flour (first grade),159.0
+2016-05-15,Aktau,Meat (beef),1338.0
+2016-06-15,Nur-Sultan,Potatoes,116.0
+2016-06-15,Nur-Sultan,Meat (beef),1333.0
+2016-06-15,Nur-Sultan,Oil (sunflower),472.0
+2016-06-15,Almaty,Potatoes,120.0
+2016-06-15,Almaty,Meat (beef),1304.0
+2016-06-15,Almaty,Milk,215.0
+2016-06-15,Kostanay,Potatoes,92.0
+2016-06-15,Kostanay,Meat (beef),1049.0
+2016-06-15,Kostanay,Oil (sunflower),431.0
+2016-06-15,Aktau,Potatoes,128.0
+2016-06-15,Aktau,Meat (beef),1338.0
+2016-06-15,Aktau,Oil (sunflower),450.0
+2016-07-15,Nur-Sultan,Potatoes,130.0
+2016-07-15,Nur-Sultan,Meat (beef),1333.0
+2016-07-15,Nur-Sultan,Oil (sunflower),470.0
+2016-07-15,Almaty,Potatoes,113.0
+2016-07-15,Almaty,Meat (beef),1303.0
+2016-07-15,Almaty,Milk,207.0
+2016-07-15,Almaty,Oil (sunflower),425.0
+2016-07-15,Kostanay,Potatoes,107.0
+2016-07-15,Kostanay,Meat (beef),1049.0
+2016-07-15,Kostanay,Milk,130.0
+2016-07-15,Kostanay,Oil (sunflower),431.0
+2016-07-15,Aktau,Potatoes,126.0
+2016-07-15,Aktau,Meat (beef),1338.0
+2016-07-15,Aktau,Oil (sunflower),450.0
+2016-08-15,Nur-Sultan,Potatoes,80.0
+2016-08-15,Nur-Sultan,Wheat flour (first grade),148.0
+2016-08-15,Nur-Sultan,Meat (beef),1352.0
+2016-08-15,Nur-Sultan,Oil (sunflower),470.0
+2016-08-15,Almaty,Potatoes,107.0
+2016-08-15,Almaty,Meat (beef),1309.0
+2016-08-15,Almaty,Milk,207.0
+2016-08-15,Almaty,Oil (sunflower),443.0
+2016-08-15,Kostanay,Potatoes,83.0
+2016-08-15,Kostanay,Meat (beef),1049.0
+2016-08-15,Kostanay,Milk,130.0
+2016-08-15,Kostanay,Oil (sunflower),431.0
+2016-08-15,Aktau,Potatoes,124.0
+2016-08-15,Aktau,Meat (beef),1338.0
+2016-08-15,Aktau,Oil (sunflower),470.0
+2016-09-15,Nur-Sultan,Potatoes,68.0
+2016-09-15,Nur-Sultan,Wheat flour (first grade),146.0
+2016-09-15,Nur-Sultan,Meat (beef),1364.0
+2016-09-15,Nur-Sultan,Oil (sunflower),497.0
+2016-09-15,Almaty,Potatoes,93.0
+2016-09-15,Almaty,Meat (beef),1377.0
+2016-09-15,Almaty,Milk,209.0
+2016-09-15,Almaty,Oil (sunflower),455.0
+2016-09-15,Kostanay,Potatoes,66.0
+2016-09-15,Kostanay,Meat (beef),1049.0
+2016-09-15,Kostanay,Milk,130.0
+2016-09-15,Aktau,Potatoes,113.0
+2016-09-15,Aktau,Meat (beef),1338.0
+2016-09-15,Aktau,Oil (sunflower),476.0
+2016-10-15,Nur-Sultan,Potatoes,70.0
+2016-10-15,Nur-Sultan,Meat (beef),1364.0
+2016-10-15,Nur-Sultan,Oil (sunflower),497.0
+2016-10-15,Almaty,Potatoes,96.0
+2016-10-15,Almaty,Meat (beef),1382.0
+2016-10-15,Almaty,Milk,213.0
+2016-10-15,Kostanay,Potatoes,62.0
+2016-10-15,Kostanay,Wheat flour (first grade),107.0
+2016-10-15,Kostanay,Meat (beef),1049.0
+2016-10-15,Kostanay,Milk,130.0
+2016-10-15,Kostanay,Oil (sunflower),439.0
+2016-10-15,Aktau,Potatoes,101.0
+2016-10-15,Aktau,Meat (beef),1338.0
+2016-11-15,Nur-Sultan,Potatoes,85.0
+2016-11-15,Nur-Sultan,Meat (beef),1364.0
+2016-11-15,Nur-Sultan,Oil (sunflower),500.0
+2016-11-15,Almaty,Potatoes,101.0
+2016-11-15,Almaty,Meat (beef),1396.0
+2016-11-15,Almaty,Milk,214.0
+2016-11-15,Kostanay,Potatoes,64.0
+2016-11-15,Kostanay,Wheat flour (first grade),107.0
+2016-11-15,Kostanay,Meat (beef),1049.0
+2016-11-15,Kostanay,Milk,130.0
+2016-11-15,Kostanay,Oil (sunflower),452.0
+2016-11-15,Aktau,Potatoes,108.0
+2016-11-15,Aktau,Wheat flour (first grade),159.0
+2016-11-15,Aktau,Meat (beef),1343.0
+2016-11-15,Aktau,Oil (sunflower),476.0
+2016-12-15,Nur-Sultan,Potatoes,92.0
+2016-12-15,Nur-Sultan,Meat (beef),1357.0
+2016-12-15,Almaty,Potatoes,112.0
+2016-12-15,Almaty,Wheat flour (first grade),139.0
+2016-12-15,Almaty,Meat (beef),1390.0
+2016-12-15,Almaty,Milk,218.0
+2016-12-15,Almaty,Oil (sunflower),432.0
+2016-12-15,Kostanay,Potatoes,70.0
+2016-12-15,Kostanay,Wheat flour (first grade),107.0
+2016-12-15,Kostanay,Meat (beef),1078.0
+2016-12-15,Kostanay,Milk,130.0
+2016-12-15,Kostanay,Oil (sunflower),461.0
+2016-12-15,Aktau,Potatoes,112.0
+2016-12-15,Aktau,Wheat flour (first grade),159.0
+2016-12-15,Aktau,Meat (beef),1365.0
+2016-12-15,Aktau,Oil (sunflower),476.0
+2017-01-15,Nur-Sultan,Potatoes,98.0
+2017-01-15,Nur-Sultan,Meat (beef),1390.0
+2017-01-15,Nur-Sultan,Oil (sunflower),470.0
+2017-01-15,Almaty,Potatoes,119.0
+2017-01-15,Almaty,Wheat flour (first grade),145.0
+2017-01-15,Almaty,Meat (beef),1420.0
+2017-01-15,Almaty,Milk,218.0
+2017-01-15,Almaty,Oil (sunflower),427.0
+2017-01-15,Kostanay,Potatoes,80.0
+2017-01-15,Kostanay,Wheat flour (first grade),107.0
+2017-01-15,Kostanay,Meat (beef),1117.0
+2017-01-15,Kostanay,Milk,140.0
+2017-01-15,Aktau,Potatoes,117.0
+2017-01-15,Aktau,Wheat flour (first grade),159.0
+2017-01-15,Aktau,Meat (beef),1398.0
+2017-01-15,Aktau,Oil (sunflower),476.0
+2017-02-15,Nur-Sultan,Potatoes,109.0
+2017-02-15,Nur-Sultan,Meat (beef),1498.0
+2017-02-15,Nur-Sultan,Oil (sunflower),470.0
+2017-02-15,Almaty,Potatoes,131.0
+2017-02-15,Almaty,Wheat flour (first grade),145.0
+2017-02-15,Almaty,Meat (beef),1450.0
+2017-02-15,Almaty,Milk,224.0
+2017-02-15,Almaty,Oil (sunflower),416.0
+2017-02-15,Kostanay,Potatoes,82.0
+2017-02-15,Kostanay,Wheat flour (first grade),107.0
+2017-02-15,Kostanay,Meat (beef),1300.0
+2017-02-15,Kostanay,Milk,140.0
+2017-02-15,Kostanay,Oil (sunflower),443.0
+2017-02-15,Aktau,Potatoes,123.0
+2017-02-15,Aktau,Wheat flour (first grade),159.0
+2017-02-15,Aktau,Meat (beef),1445.0
+2017-03-15,Nur-Sultan,Potatoes,116.0
+2017-03-15,Nur-Sultan,Meat (beef),1520.0
+2017-03-15,Nur-Sultan,Oil (sunflower),470.0
+2017-03-15,Almaty,Potatoes,131.0
+2017-03-15,Almaty,Wheat flour (first grade),148.0
+2017-03-15,Almaty,Meat (beef),1480.0
+2017-03-15,Almaty,Milk,224.0
+2017-03-15,Almaty,Oil (sunflower),411.0
+2017-03-15,Kostanay,Potatoes,86.0
+2017-03-15,Kostanay,Wheat flour (first grade),107.0
+2017-03-15,Kostanay,Meat (beef),1300.0
+2017-03-15,Kostanay,Milk,140.0
+2017-03-15,Kostanay,Oil (sunflower),429.0
+2017-03-15,Aktau,Potatoes,127.0
+2017-03-15,Aktau,Wheat flour (first grade),159.0
+2017-03-15,Aktau,Meat (beef),1445.0
+2017-04-15,Nur-Sultan,Potatoes,142.0
+2017-04-15,Nur-Sultan,Meat (beef),1552.0
+2017-04-15,Nur-Sultan,Oil (sunflower),448.0
+2017-04-15,Almaty,Potatoes,143.0
+2017-04-15,Almaty,Wheat flour (first grade),161.0
+2017-04-15,Almaty,Meat (beef),1491.0
+2017-04-15,Almaty,Milk,229.0
+2017-04-15,Almaty,Oil (sunflower),412.0
+2017-04-15,Kostanay,Potatoes,101.0
+2017-04-15,Kostanay,Wheat flour (first grade),101.0
+2017-04-15,Kostanay,Meat (beef),1300.0
+2017-04-15,Kostanay,Milk,140.0
+2017-04-15,Kostanay,Oil (sunflower),425.0
+2017-04-15,Aktau,Potatoes,138.0
+2017-04-15,Aktau,Meat (beef),1466.0
+2017-04-15,Aktau,Oil (sunflower),468.0
+2017-05-15,Nur-Sultan,Potatoes,169.0
+2017-05-15,Nur-Sultan,Meat (beef),1622.0
+2017-05-15,Nur-Sultan,Oil (sunflower),447.0
+2017-05-15,Almaty,Potatoes,150.0
+2017-05-15,Almaty,Wheat flour (first grade),161.0
+2017-05-15,Almaty,Meat (beef),1493.0
+2017-05-15,Almaty,Milk,236.0
+2017-05-15,Almaty,Oil (sunflower),409.0
+2017-05-15,Kostanay,Potatoes,120.0
+2017-05-15,Kostanay,Meat (beef),1300.0
+2017-05-15,Kostanay,Milk,140.0
+2017-05-15,Kostanay,Oil (sunflower),427.0
+2017-05-15,Aktau,Potatoes,150.0
+2017-05-15,Aktau,Meat (beef),1482.0
+2017-05-15,Aktau,Oil (sunflower),460.0
+2017-06-15,Nur-Sultan,Potatoes,190.0
+2017-06-15,Nur-Sultan,Wheat flour (first grade),146.0
+2017-06-15,Nur-Sultan,Meat (beef),1622.0
+2017-06-15,Nur-Sultan,Oil (sunflower),442.0
+2017-06-15,Almaty,Potatoes,188.0
+2017-06-15,Almaty,Wheat flour (first grade),161.0
+2017-06-15,Almaty,Meat (beef),1493.0
+2017-06-15,Almaty,Milk,236.0
+2017-06-15,Almaty,Oil (sunflower),403.0
+2017-06-15,Kostanay,Potatoes,130.0
+2017-06-15,Kostanay,Meat (beef),1300.0
+2017-06-15,Kostanay,Milk,140.0
+2017-06-15,Kostanay,Oil (sunflower),425.0
+2017-06-15,Aktau,Potatoes,181.0
+2017-06-15,Aktau,Meat (beef),1482.0
+2017-06-15,Aktau,Oil (sunflower),451.0
+2017-07-15,Nur-Sultan,Potatoes,161.0
+2017-07-15,Nur-Sultan,Wheat flour (first grade),155.0
+2017-07-15,Nur-Sultan,Meat (beef),1622.0
+2017-07-15,Nur-Sultan,Oil (sunflower),435.0
+2017-07-15,Almaty,Potatoes,149.0
+2017-07-15,Almaty,Meat (beef),1493.0
+2017-07-15,Almaty,Milk,242.0
+2017-07-15,Almaty,Oil (sunflower),390.0
+2017-07-15,Kostanay,Potatoes,132.0
+2017-07-15,Kostanay,Wheat flour (first grade),100.0
+2017-07-15,Kostanay,Meat (beef),1323.0
+2017-07-15,Kostanay,Milk,140.0
+2017-07-15,Aktau,Potatoes,155.0
+2017-07-15,Aktau,Wheat flour (first grade),160.0
+2017-07-15,Aktau,Meat (beef),1488.0
+2017-07-15,Aktau,Oil (sunflower),451.0
+2017-08-15,Nur-Sultan,Potatoes,103.0
+2017-08-15,Nur-Sultan,Wheat flour (first grade),155.0
+2017-08-15,Nur-Sultan,Meat (beef),1641.0
+2017-08-15,Nur-Sultan,Oil (sunflower),435.0
+2017-08-15,Almaty,Potatoes,112.0
+2017-08-15,Almaty,Meat (beef),1516.0
+2017-08-15,Almaty,Milk,245.0
+2017-08-15,Almaty,Oil (sunflower),384.0
+2017-08-15,Kostanay,Potatoes,113.0
+2017-08-15,Kostanay,Wheat flour (first grade),100.0
+2017-08-15,Kostanay,Meat (beef),1323.0
+2017-08-15,Kostanay,Milk,140.0
+2017-08-15,Aktau,Potatoes,136.0
+2017-08-15,Aktau,Wheat flour (first grade),160.0
+2017-08-15,Aktau,Meat (beef),1488.0
+2017-09-15,Nur-Sultan,Potatoes,92.0
+2017-09-15,Nur-Sultan,Wheat flour (first grade),155.0
+2017-09-15,Nur-Sultan,Meat (beef),1661.0
+2017-09-15,Nur-Sultan,Oil (sunflower),439.0
+2017-09-15,Almaty,Potatoes,112.0
+2017-09-15,Almaty,Meat (beef),1541.0
+2017-09-15,Almaty,Milk,246.0
+2017-09-15,Almaty,Oil (sunflower),393.0
+2017-09-15,Kostanay,Potatoes,100.0
+2017-09-15,Kostanay,Wheat flour (first grade),100.0
+2017-09-15,Kostanay,Meat (beef),1323.0
+2017-09-15,Aktau,Potatoes,126.0
+2017-09-15,Aktau,Wheat flour (first grade),160.0
+2017-09-15,Aktau,Meat (beef),1488.0
+2017-10-15,Nur-Sultan,Potatoes,114.0
+2017-10-15,Nur-Sultan,Meat (beef),1661.0
+2017-10-15,Nur-Sultan,Oil (sunflower),440.0
+2017-10-15,Almaty,Potatoes,154.0
+2017-10-15,Almaty,Wheat flour (first grade),161.0
+2017-10-15,Almaty,Meat (beef),1525.0
+2017-10-15,Almaty,Milk,247.0
+2017-10-15,Kostanay,Potatoes,100.0
+2017-10-15,Kostanay,Meat (beef),1323.0
+2017-10-15,Kostanay,Milk,152.0
+2017-10-15,Kostanay,Oil (sunflower),407.0
+2017-10-15,Aktau,Potatoes,137.0
+2017-10-15,Aktau,Wheat flour (first grade),160.0
+2017-10-15,Aktau,Meat (beef),1488.0
+2017-11-15,Nur-Sultan,Potatoes,122.0
+2017-11-15,Nur-Sultan,Wheat flour (first grade),156.0
+2017-11-15,Nur-Sultan,Meat (beef),1661.0
+2017-11-15,Nur-Sultan,Oil (sunflower),444.0
+2017-11-15,Almaty,Potatoes,145.0
+2017-11-15,Almaty,Meat (beef),1610.0
+2017-11-15,Almaty,Milk,249.0
+2017-11-15,Kostanay,Potatoes,106.0
+2017-11-15,Kostanay,Meat (beef),1323.0
+2017-11-15,Kostanay,Milk,152.0
+2017-11-15,Kostanay,Oil (sunflower),407.0
+2017-11-15,Aktau,Potatoes,139.0
+2017-11-15,Aktau,Wheat flour (first grade),160.0
+2017-11-15,Aktau,Meat (beef),1488.0
+2017-11-15,Aktau,Oil (sunflower),456.0
+2017-12-15,Nur-Sultan,Potatoes,126.0
+2017-12-15,Nur-Sultan,Meat (beef),1660.0
+2017-12-15,Almaty,Potatoes,135.0
+2017-12-15,Almaty,Meat (beef),1632.0
+2017-12-15,Almaty,Milk,252.0
+2017-12-15,Almaty,Oil (sunflower),394.0
+2017-12-15,Kostanay,Potatoes,104.0
+2017-12-15,Kostanay,Wheat flour (first grade),96.0
+2017-12-15,Kostanay,Meat (beef),1348.0
+2017-12-15,Kostanay,Milk,152.0
+2017-12-15,Kostanay,Oil (sunflower),408.0
+2017-12-15,Aktau,Potatoes,141.0
+2017-12-15,Aktau,Meat (beef),1488.0
+2017-12-15,Aktau,Oil (sunflower),456.0
+2018-01-15,Nur-Sultan,Potatoes,136.0
+2018-01-15,Nur-Sultan,Meat (beef),1654.0
+2018-01-15,Nur-Sultan,Oil (sunflower),444.0
+2018-01-15,Almaty,Potatoes,141.0
+2018-01-15,Almaty,Wheat flour (first grade),162.0
+2018-01-15,Almaty,Meat (beef),1627.0
+2018-01-15,Almaty,Milk,252.0
+2018-01-15,Almaty,Oil (sunflower),394.0
+2018-01-15,Kostanay,Potatoes,108.0
+2018-01-15,Kostanay,Wheat flour (first grade),96.0
+2018-01-15,Kostanay,Meat (beef),1361.0
+2018-01-15,Kostanay,Milk,152.0
+2018-01-15,Kostanay,Oil (sunflower),409.0
+2018-01-15,Aktau,Potatoes,148.0
+2018-01-15,Aktau,Wheat flour (first grade),160.0
+2018-01-15,Aktau,Meat (beef),1501.0
+2018-02-15,Nur-Sultan,Potatoes,143.0
+2018-02-15,Nur-Sultan,Meat (beef),1666.0
+2018-02-15,Nur-Sultan,Oil (sunflower),444.0
+2018-02-15,Almaty,Potatoes,147.0
+2018-02-15,Almaty,Wheat flour (first grade),162.0
+2018-02-15,Almaty,Meat (beef),1643.0
+2018-02-15,Almaty,Milk,252.0
+2018-02-15,Almaty,Oil (sunflower),394.0
+2018-02-15,Kostanay,Potatoes,113.0
+2018-02-15,Kostanay,Wheat flour (first grade),96.0
+2018-02-15,Kostanay,Meat (beef),1361.0
+2018-02-15,Kostanay,Milk,154.0
+2018-02-15,Kostanay,Oil (sunflower),407.0
+2018-02-15,Aktau,Potatoes,156.0
+2018-02-15,Aktau,Wheat flour (first grade),160.0
+2018-02-15,Aktau,Meat (beef),1539.0
+2018-03-15,Nur-Sultan,Potatoes,142.0
+2018-03-15,Nur-Sultan,Meat (beef),1666.0
+2018-03-15,Nur-Sultan,Oil (sunflower),444.0
+2018-03-15,Almaty,Potatoes,155.0
+2018-03-15,Almaty,Wheat flour (first grade),162.0
+2018-03-15,Almaty,Meat (beef),1636.0
+2018-03-15,Almaty,Milk,252.0
+2018-03-15,Almaty,Oil (sunflower),393.0
+2018-03-15,Kostanay,Potatoes,113.0
+2018-03-15,Kostanay,Wheat flour (first grade),96.0
+2018-03-15,Kostanay,Meat (beef),1361.0
+2018-03-15,Kostanay,Milk,154.0
+2018-03-15,Kostanay,Oil (sunflower),408.0
+2018-03-15,Aktau,Potatoes,157.0
+2018-03-15,Aktau,Wheat flour (first grade),160.0
+2018-03-15,Aktau,Meat (beef),1539.0
+2018-04-15,Nur-Sultan,Potatoes,141.0
+2018-04-15,Nur-Sultan,Meat (beef),1677.0
+2018-04-15,Nur-Sultan,Oil (sunflower),442.0
+2018-04-15,Almaty,Potatoes,143.0
+2018-04-15,Almaty,Wheat flour (first grade),162.0
+2018-04-15,Almaty,Meat (beef),1643.0
+2018-04-15,Almaty,Milk,245.0
+2018-04-15,Kostanay,Potatoes,113.0
+2018-04-15,Kostanay,Wheat flour (first grade),96.0
+2018-04-15,Kostanay,Meat (beef),1392.0
+2018-04-15,Kostanay,Milk,154.0
+2018-04-15,Kostanay,Oil (sunflower),408.0
+2018-04-15,Aktau,Potatoes,155.0
+2018-04-15,Aktau,Meat (beef),1541.0
+2018-05-15,Nur-Sultan,Potatoes,137.0
+2018-05-15,Nur-Sultan,Meat (beef),1677.0
+2018-05-15,Almaty,Potatoes,153.0
+2018-05-15,Almaty,Wheat flour (first grade),162.0
+2018-05-15,Almaty,Meat (beef),1640.0
+2018-05-15,Almaty,Milk,245.0
+2018-05-15,Almaty,Oil (sunflower),403.0
+2018-05-15,Kostanay,Potatoes,113.0
+2018-05-15,Kostanay,Meat (beef),1392.0
+2018-05-15,Kostanay,Milk,154.0
+2018-05-15,Kostanay,Oil (sunflower),409.0
+2018-05-15,Aktau,Potatoes,158.0
+2018-05-15,Aktau,Wheat flour (first grade),160.0
+2018-05-15,Aktau,Meat (beef),1552.0
+2018-05-15,Aktau,Oil (sunflower),450.0
+2018-06-15,Nur-Sultan,Potatoes,145.0
+2018-06-15,Nur-Sultan,Meat (beef),1677.0
+2018-06-15,Almaty,Potatoes,145.0
+2018-06-15,Almaty,Wheat flour (first grade),162.0
+2018-06-15,Almaty,Meat (beef),1640.0
+2018-06-15,Almaty,Milk,243.0
+2018-06-15,Almaty,Oil (sunflower),399.0
+2018-06-15,Kostanay,Potatoes,119.0
+2018-06-15,Kostanay,Wheat flour (first grade),96.0
+2018-06-15,Kostanay,Meat (beef),1403.0
+2018-06-15,Kostanay,Oil (sunflower),409.0
+2018-06-15,Aktau,Potatoes,170.0
+2018-06-15,Aktau,Meat (beef),1557.0
+2018-06-15,Aktau,Oil (sunflower),458.0
+2018-07-15,Nur-Sultan,Potatoes,125.0
+2018-07-15,Nur-Sultan,Meat (beef),1667.0
+2018-07-15,Nur-Sultan,Oil (sunflower),444.0
+2018-07-15,Almaty,Potatoes,120.0
+2018-07-15,Almaty,Wheat flour (first grade),163.0
+2018-07-15,Almaty,Meat (beef),1640.0
+2018-07-15,Almaty,Milk,243.0
+2018-07-15,Almaty,Oil (sunflower),400.0
+2018-07-15,Kostanay,Potatoes,106.0
+2018-07-15,Kostanay,Meat (beef),1403.0
+2018-07-15,Kostanay,Milk,154.0
+2018-07-15,Aktau,Potatoes,148.0
+2018-07-15,Aktau,Wheat flour (first grade),164.0
+2018-07-15,Aktau,Meat (beef),1557.0
+2018-07-15,Aktau,Oil (sunflower),458.0
+2018-08-15,Nur-Sultan,Potatoes,105.0
+2018-08-15,Nur-Sultan,Meat (beef),1667.0
+2018-08-15,Nur-Sultan,Oil (sunflower),440.0
+2018-08-15,Almaty,Potatoes,100.0
+2018-08-15,Almaty,Meat (beef),1656.0
+2018-08-15,Almaty,Milk,243.0
+2018-08-15,Almaty,Oil (sunflower),405.0
+2018-08-15,Kostanay,Potatoes,106.0
+2018-08-15,Kostanay,Wheat flour (first grade),96.0
+2018-08-15,Kostanay,Meat (beef),1403.0
+2018-08-15,Aktau,Potatoes,138.0
+2018-08-15,Aktau,Wheat flour (first grade),164.0
+2018-08-15,Aktau,Meat (beef),1557.0
+2018-08-15,Aktau,Oil (sunflower),458.0
+2018-09-15,Nur-Sultan,Potatoes,89.0
+2018-09-15,Nur-Sultan,Meat (beef),1683.0
+2018-09-15,Nur-Sultan,Oil (sunflower),457.0
+2018-09-15,Almaty,Potatoes,96.0
+2018-09-15,Almaty,Meat (beef),1685.0
+2018-09-15,Almaty,Milk,244.0
+2018-09-15,Almaty,Oil (sunflower),420.0
+2018-09-15,Kostanay,Potatoes,89.0
+2018-09-15,Kostanay,Wheat flour (first grade),96.0
+2018-09-15,Kostanay,Meat (beef),1453.0
+2018-09-15,Aktau,Potatoes,134.0
+2018-09-15,Aktau,Wheat flour (first grade),163.0
+2018-09-15,Aktau,Meat (beef),1566.0
+2018-09-15,Aktau,Oil (sunflower),458.0
+2018-10-15,Nur-Sultan,Potatoes,78.0
+2018-10-15,Nur-Sultan,Meat (beef),1696.0
+2018-10-15,Nur-Sultan,Oil (sunflower),425.0
+2018-10-15,Almaty,Potatoes,88.0
+2018-10-15,Almaty,Meat (beef),1696.0
+2018-10-15,Almaty,Milk,246.0
+2018-10-15,Almaty,Oil (sunflower),429.0
+2018-10-15,Kostanay,Potatoes,77.0
+2018-10-15,Kostanay,Meat (beef),1453.0
+2018-10-15,Kostanay,Milk,150.0
+2018-10-15,Kostanay,Oil (sunflower),416.0
+2018-10-15,Aktau,Potatoes,124.0
+2018-10-15,Aktau,Wheat flour (first grade),163.0
+2018-10-15,Aktau,Meat (beef),1566.0
+2018-10-15,Aktau,Oil (sunflower),463.0
+2018-11-15,Nur-Sultan,Potatoes,80.0
+2018-11-15,Nur-Sultan,Meat (beef),1696.0
+2018-11-15,Nur-Sultan,Oil (sunflower),472.0
+2018-11-15,Almaty,Potatoes,90.0
+2018-11-15,Almaty,Wheat flour (first grade),171.0
+2018-11-15,Almaty,Meat (beef),1696.0
+2018-11-15,Almaty,Milk,250.0
+2018-11-15,Kostanay,Potatoes,74.0
+2018-11-15,Kostanay,Meat (beef),1481.0
+2018-11-15,Kostanay,Milk,152.0
+2018-11-15,Kostanay,Oil (sunflower),425.0
+2018-11-15,Aktau,Potatoes,119.0
+2018-11-15,Aktau,Wheat flour (first grade),172.0
+2018-11-15,Aktau,Meat (beef),1620.0
+2018-11-15,Aktau,Oil (sunflower),474.0
+2018-12-15,Nur-Sultan,Potatoes,86.0
+2018-12-15,Nur-Sultan,Wheat flour (first grade),165.0
+2018-12-15,Nur-Sultan,Meat (beef),1696.0
+2018-12-15,Nur-Sultan,Oil (sunflower),472.0
+2018-12-15,Almaty,Potatoes,95.0
+2018-12-15,Almaty,Meat (beef),1696.0
+2018-12-15,Almaty,Milk,251.0
+2018-12-15,Almaty,Oil (sunflower),438.0
+2018-12-15,Kostanay,Potatoes,81.0
+2018-12-15,Kostanay,Wheat flour (first grade),103.0
+2018-12-15,Kostanay,Meat (beef),1481.0
+2018-12-15,Kostanay,Milk,161.0
+2018-12-15,Kostanay,Oil (sunflower),434.0
+2018-12-15,Aktau,Potatoes,121.0
+2018-12-15,Aktau,Meat (beef),1620.0
+2018-12-15,Aktau,Oil (sunflower),479.0
+2019-01-15,Nur-Sultan,Potatoes,85.0
+2019-01-15,Nur-Sultan,Wheat flour (first grade),170.0
+2019-01-15,Nur-Sultan,Meat (beef),1700.0
+2019-01-15,Nur-Sultan,Oil (sunflower),470.0
+2019-01-15,Almaty,Potatoes,99.0
+2019-01-15,Almaty,Wheat flour (first grade),172.0
+2019-01-15,Almaty,Meat (beef),1715.0
+2019-01-15,Almaty,Milk,254.0
+2019-01-15,Kostanay,Potatoes,81.0
+2019-01-15,Kostanay,Wheat flour (first grade),103.0
+2019-01-15,Kostanay,Meat (beef),1481.0
+2019-01-15,Kostanay,Milk,161.0
+2019-01-15,Kostanay,Oil (sunflower),436.0
+2019-01-15,Aktau,Potatoes,122.0
+2019-01-15,Aktau,Wheat flour (first grade),174.0
+2019-01-15,Aktau,Meat (beef),1620.0
+2019-02-15,Nur-Sultan,Potatoes,85.0
+2019-02-15,Nur-Sultan,Meat (beef),1711.0
+2019-02-15,Nur-Sultan,Oil (sunflower),476.0
+2019-02-15,Almaty,Potatoes,97.0
+2019-02-15,Almaty,Wheat flour (first grade),175.0
+2019-02-15,Almaty,Meat (beef),1715.0
+2019-02-15,Almaty,Milk,254.0
+2019-02-15,Kostanay,Potatoes,81.0
+2019-02-15,Kostanay,Wheat flour (first grade),111.0
+2019-02-15,Kostanay,Meat (beef),1481.0
+2019-02-15,Kostanay,Milk,161.0
+2019-02-15,Kostanay,Oil (sunflower),434.0
+2019-02-15,Aktau,Potatoes,120.0
+2019-02-15,Aktau,Wheat flour (first grade),175.0
+2019-02-15,Aktau,Meat (beef),1620.0
+2019-03-15,Nur-Sultan,Potatoes,86.0
+2019-03-15,Nur-Sultan,Meat (beef),1731.0
+2019-03-15,Nur-Sultan,Oil (sunflower),474.0
+2019-03-15,Almaty,Potatoes,101.0
+2019-03-15,Almaty,Wheat flour (first grade),178.0
+2019-03-15,Almaty,Meat (beef),1696.0
+2019-03-15,Almaty,Milk,254.0
+2019-03-15,Kostanay,Potatoes,79.0
+2019-03-15,Kostanay,Wheat flour (first grade),115.0
+2019-03-15,Kostanay,Meat (beef),1481.0
+2019-03-15,Kostanay,Milk,161.0
+2019-03-15,Kostanay,Oil (sunflower),436.0
+2019-03-15,Aktau,Potatoes,120.0
+2019-03-15,Aktau,Wheat flour (first grade),184.0
+2019-03-15,Aktau,Meat (beef),1634.0
+2019-04-15,Nur-Sultan,Potatoes,96.0
+2019-04-15,Nur-Sultan,Wheat flour (first grade),194.0
+2019-04-15,Nur-Sultan,Meat (beef),1735.0
+2019-04-15,Nur-Sultan,Oil (sunflower),474.0
+2019-04-15,Almaty,Potatoes,106.0
+2019-04-15,Almaty,Wheat flour (first grade),187.0
+2019-04-15,Almaty,Meat (beef),1767.0
+2019-04-15,Almaty,Milk,247.0
+2019-04-15,Kostanay,Potatoes,74.0
+2019-04-15,Kostanay,Meat (beef),1481.0
+2019-04-15,Kostanay,Milk,161.0
+2019-04-15,Kostanay,Oil (sunflower),436.0
+2019-04-15,Aktau,Potatoes,123.0
+2019-04-15,Aktau,Wheat flour (first grade),190.0
+2019-04-15,Aktau,Meat (beef),1639.0
+2019-05-15,Nur-Sultan,Potatoes,109.0
+2019-05-15,Nur-Sultan,Meat (beef),1758.0
+2019-05-15,Almaty,Potatoes,116.0
+2019-05-15,Almaty,Wheat flour (first grade),189.0
+2019-05-15,Almaty,Meat (beef),1769.0
+2019-05-15,Almaty,Milk,247.0
+2019-05-15,Almaty,Oil (sunflower),445.0
+2019-05-15,Kostanay,Potatoes,74.0
+2019-05-15,Kostanay,Wheat flour (first grade),120.0
+2019-05-15,Kostanay,Meat (beef),1504.0
+2019-05-15,Kostanay,Oil (sunflower),441.0
+2019-05-15,Aktau,Potatoes,109.0
+2019-05-15,Aktau,Meat (beef),1672.0
+2019-05-15,Aktau,Oil (sunflower),487.0
+2019-06-15,Nur-Sultan,Potatoes,151.0
+2019-06-15,Nur-Sultan,Meat (beef),1839.0
+2019-06-15,Almaty,Potatoes,126.0
+2019-06-15,Almaty,Meat (beef),1788.0
+2019-06-15,Almaty,Milk,247.0
+2019-06-15,Almaty,Oil (sunflower),442.0
+2019-06-15,Kostanay,Potatoes,97.0
+2019-06-15,Kostanay,Wheat flour (first grade),120.0
+2019-06-15,Kostanay,Meat (beef),1504.0
+2019-06-15,Kostanay,Oil (sunflower),447.0
+2019-06-15,Aktau,Potatoes,150.0
+2019-06-15,Aktau,Meat (beef),1678.0
+2019-06-15,Aktau,Oil (sunflower),488.0
+2019-07-15,Nur-Sultan,Potatoes,154.0
+2019-07-15,Nur-Sultan,Meat (beef),1839.0
+2019-07-15,Nur-Sultan,Oil (sunflower),469.0
+2019-07-15,Almaty,Potatoes,106.0
+2019-07-15,Almaty,Wheat flour (first grade),196.0
+2019-07-15,Almaty,Meat (beef),1789.0
+2019-07-15,Almaty,Milk,247.0
+2019-07-15,Almaty,Oil (sunflower),442.0
+2019-07-15,Kostanay,Potatoes,96.0
+2019-07-15,Kostanay,Wheat flour (first grade),123.0
+2019-07-15,Kostanay,Meat (beef),1539.0
+2019-07-15,Kostanay,Milk,159.0
+2019-07-15,Aktau,Potatoes,156.0
+2019-07-15,Aktau,Wheat flour (first grade),197.0
+2019-07-15,Aktau,Meat (beef),1678.0
+2019-08-15,Nur-Sultan,Potatoes,141.0
+2019-08-15,Nur-Sultan,Meat (beef),1851.0
+2019-08-15,Nur-Sultan,Oil (sunflower),471.0
+2019-08-15,Almaty,Potatoes,118.0
+2019-08-15,Almaty,Meat (beef),2008.0
+2019-08-15,Almaty,Milk,247.0
+2019-08-15,Almaty,Oil (sunflower),442.0
+2019-08-15,Kostanay,Potatoes,96.0
+2019-08-15,Kostanay,Wheat flour (first grade),128.0
+2019-08-15,Kostanay,Meat (beef),1558.0
+2019-08-15,Kostanay,Milk,159.0
+2019-08-15,Kostanay,Oil (sunflower),447.0
+2019-08-15,Aktau,Potatoes,151.0
+2019-08-15,Aktau,Wheat flour (first grade),197.0
+2019-08-15,Aktau,Meat (beef),1678.0
+2019-08-15,Aktau,Oil (sunflower),488.0
+2019-09-15,Nur-Sultan,Potatoes,104.0
+2019-09-15,Nur-Sultan,Meat (beef),1866.0
+2019-09-15,Nur-Sultan,Oil (sunflower),473.0
+2019-09-15,Almaty,Potatoes,113.0
+2019-09-15,Almaty,Meat (beef),2064.0
+2019-09-15,Almaty,Milk,247.0
+2019-09-15,Almaty,Oil (sunflower),442.0
+2019-09-15,Kostanay,Potatoes,80.0
+2019-09-15,Kostanay,Wheat flour (first grade),130.0
+2019-09-15,Kostanay,Meat (beef),1603.0
+2019-09-15,Kostanay,Oil (sunflower),447.0
+2019-09-15,Aktau,Potatoes,147.0
+2019-09-15,Aktau,Meat (beef),1698.0
+2019-09-15,Aktau,Oil (sunflower),488.0
+2019-10-15,Nur-Sultan,Potatoes,104.0
+2019-10-15,Nur-Sultan,Meat (beef),1923.0
+2019-10-15,Nur-Sultan,Oil (sunflower),473.0
+2019-10-15,Almaty,Potatoes,109.0
+2019-10-15,Almaty,Wheat flour (first grade),206.0
+2019-10-15,Almaty,Meat (beef),2134.0
+2019-10-15,Almaty,Milk,249.0
+2019-10-15,Almaty,Oil (sunflower),442.0
+2019-10-15,Kostanay,Potatoes,86.0
+2019-10-15,Kostanay,Meat (beef),1603.0
+2019-10-15,Kostanay,Oil (sunflower),436.0
+2019-10-15,Aktau,Potatoes,132.0
+2019-10-15,Aktau,Wheat flour (first grade),213.0
+2019-10-15,Aktau,Meat (beef),1708.0
+2019-10-15,Aktau,Oil (sunflower),487.0
+2019-11-15,Nur-Sultan,Potatoes,104.0
+2019-11-15,Nur-Sultan,Meat (beef),1911.0
+2019-11-15,Almaty,Potatoes,106.0
+2019-11-15,Almaty,Wheat flour (first grade),219.0
+2019-11-15,Almaty,Meat (beef),2134.0
+2019-11-15,Almaty,Milk,250.0
+2019-11-15,Almaty,Oil (sunflower),438.0
+2019-11-15,Kostanay,Potatoes,83.0
+2019-11-15,Kostanay,Meat (beef),1630.0
+2019-11-15,Kostanay,Oil (sunflower),436.0
+2019-11-15,Aktau,Potatoes,129.0
+2019-11-15,Aktau,Wheat flour (first grade),229.0
+2019-11-15,Aktau,Meat (beef),1718.0
+2019-11-15,Aktau,Oil (sunflower),487.0
+2019-12-15,Nur-Sultan,Potatoes,103.0
+2019-12-15,Nur-Sultan,Wheat flour (first grade),230.0
+2019-12-15,Nur-Sultan,Meat (beef),1924.0
+2019-12-15,Nur-Sultan,Oil (sunflower),467.0
+2019-12-15,Almaty,Potatoes,114.0
+2019-12-15,Almaty,Meat (beef),2134.0
+2019-12-15,Almaty,Milk,252.0
+2019-12-15,Almaty,Oil (sunflower),438.0
+2019-12-15,Kostanay,Potatoes,81.0
+2019-12-15,Kostanay,Meat (beef),1630.0
+2019-12-15,Kostanay,Milk,165.0
+2019-12-15,Aktau,Potatoes,126.0
+2019-12-15,Aktau,Wheat flour (first grade),234.0
+2019-12-15,Aktau,Meat (beef),1718.0
+2019-12-15,Aktau,Oil (sunflower),488.0
+2020-01-15,Nur-Sultan,Potatoes,99.0
+2020-01-15,Nur-Sultan,Meat (beef),1959.0
+2020-01-15,Nur-Sultan,Oil (sunflower),469.0
+2020-01-15,Almaty,Potatoes,116.0
+2020-01-15,Almaty,Wheat flour (first grade),220.0
+2020-01-15,Almaty,Meat (beef),2142.0
+2020-01-15,Almaty,Milk,255.0
+2020-01-15,Kostanay,Potatoes,80.0
+2020-01-15,Kostanay,Meat (beef),1630.0
+2020-01-15,Kostanay,Milk,165.0
+2020-01-15,Kostanay,Oil (sunflower),436.0
+2020-01-15,Aktau,Potatoes,128.0
+2020-01-15,Aktau,Wheat flour (first grade),237.0
+2020-01-15,Aktau,Meat (beef),1733.0
+2020-02-15,Nur-Sultan,Potatoes,100.0
+2020-02-15,Nur-Sultan,Meat (beef),2046.0
+2020-02-15,Nur-Sultan,Oil (sunflower),472.0
+2020-02-15,Almaty,Potatoes,120.0
+2020-02-15,Almaty,Wheat flour (first grade),220.0
+2020-02-15,Almaty,Meat (beef),2144.0
+2020-02-15,Almaty,Milk,257.0
+2020-02-15,Kostanay,Potatoes,81.0
+2020-02-15,Kostanay,Meat (beef),1653.0
+2020-02-15,Kostanay,Milk,165.0
+2020-02-15,Kostanay,Oil (sunflower),436.0
+2020-02-15,Aktau,Potatoes,128.0
+2020-02-15,Aktau,Meat (beef),1764.0
+2020-02-15,Aktau,Oil (sunflower),488.0
+2020-03-15,Nur-Sultan,Potatoes,137.0
+2020-03-15,Nur-Sultan,Meat (beef),2113.0
+2020-03-15,Nur-Sultan,Oil (sunflower),468.0
+2020-03-15,Almaty,Potatoes,143.0
+2020-03-15,Almaty,Wheat flour (first grade),224.0
+2020-03-15,Almaty,Meat (beef),2169.0
+2020-03-15,Almaty,Milk,260.0
+2020-03-15,Almaty,Oil (sunflower),434.0
+2020-03-15,Kostanay,Potatoes,85.0
+2020-03-15,Kostanay,Wheat flour (first grade),146.0
+2020-03-15,Kostanay,Meat (beef),1690.0
+2020-03-15,Kostanay,Milk,165.0
+2020-03-15,Aktau,Potatoes,132.0
+2020-03-15,Aktau,Wheat flour (first grade),239.0
+2020-03-15,Aktau,Meat (beef),1791.0
+2020-03-15,Aktau,Oil (sunflower),494.0
+2020-04-15,Nur-Sultan,Potatoes,150.0
+2020-04-15,Nur-Sultan,Meat (beef),2112.0
+2020-04-15,Nur-Sultan,Oil (sunflower),476.0
+2020-04-15,Almaty,Potatoes,169.0
+2020-04-15,Almaty,Wheat flour (first grade),213.0
+2020-04-15,Almaty,Meat (beef),2169.0
+2020-04-15,Almaty,Milk,261.0
+2020-04-15,Almaty,Oil (sunflower),434.0
+2020-04-15,Kostanay,Potatoes,96.0
+2020-04-15,Kostanay,Wheat flour (first grade),146.0
+2020-04-15,Kostanay,Meat (beef),1690.0
+2020-04-15,Kostanay,Milk,165.0
+2020-04-15,Kostanay,Oil (sunflower),430.0
+2020-04-15,Aktau,Potatoes,143.0
+2020-04-15,Aktau,Wheat flour (first grade),233.0
+2020-04-15,Aktau,Meat (beef),1812.0
+2020-04-15,Aktau,Oil (sunflower),484.0
+2020-05-15,Nur-Sultan,Potatoes,167.0
+2020-05-15,Nur-Sultan,Wheat flour (first grade),235.0
+2020-05-15,Nur-Sultan,Meat (beef),2136.0
+2020-05-15,Nur-Sultan,Oil (sunflower),473.0
+2020-05-15,Almaty,Potatoes,179.0
+2020-05-15,Almaty,Wheat flour (first grade),213.0
+2020-05-15,Almaty,Meat (beef),2149.0
+2020-05-15,Almaty,Milk,261.0
+2020-05-15,Kostanay,Potatoes,106.0
+2020-05-15,Kostanay,Meat (beef),1793.0
+2020-05-15,Kostanay,Oil (sunflower),430.0
+2020-05-15,Aktau,Potatoes,159.0
+2020-05-15,Aktau,Wheat flour (first grade),233.0
+2020-05-15,Aktau,Meat (beef),1847.0
+2020-05-15,Aktau,Oil (sunflower),484.0
+2020-06-15,Nur-Sultan,Potatoes,205.0
+2020-06-15,Nur-Sultan,Meat (beef),2124.0
+2020-06-15,Nur-Sultan,Oil (sunflower),474.0
+2020-06-15,Almaty,Potatoes,172.0
+2020-06-15,Almaty,Wheat flour (first grade),213.0
+2020-06-15,Almaty,Meat (beef),2107.0
+2020-06-15,Almaty,Milk,261.0
+2020-06-15,Almaty,Oil (sunflower),436.0
+2020-06-15,Kostanay,Potatoes,115.0
+2020-06-15,Kostanay,Meat (beef),1811.0
+2020-06-15,Kostanay,Oil (sunflower),430.0
+2020-06-15,Aktau,Potatoes,195.0
+2020-06-15,Aktau,Wheat flour (first grade),233.0
+2020-06-15,Aktau,Meat (beef),1860.0
+2020-06-15,Aktau,Oil (sunflower),487.0
+2020-07-15,Nur-Sultan,Potatoes,195.0
+2020-07-15,Nur-Sultan,Wheat flour (first grade),250.0
+2020-07-15,Nur-Sultan,Meat (beef),2132.0
+2020-07-15,Nur-Sultan,Oil (sunflower),472.0
+2020-07-15,Almaty,Potatoes,119.0
+2020-07-15,Almaty,Meat (beef),2107.0
+2020-07-15,Almaty,Milk,261.0
+2020-07-15,Almaty,Oil (sunflower),436.0
+2020-07-15,Kostanay,Potatoes,122.0
+2020-07-15,Kostanay,Meat (beef),1811.0
+2020-07-15,Kostanay,Milk,165.0
+2020-07-15,Aktau,Potatoes,191.0
+2020-07-15,Aktau,Meat (beef),1860.0
+2020-07-15,Aktau,Oil (sunflower),487.0
+2020-08-15,Nur-Sultan,Potatoes,115.0
+2020-08-15,Nur-Sultan,Wheat flour (first grade),256.0
+2020-08-15,Nur-Sultan,Meat (beef),2124.0
+2020-08-15,Nur-Sultan,Oil (sunflower),492.0
+2020-08-15,Almaty,Potatoes,98.0
+2020-08-15,Almaty,Meat (beef),2118.0
+2020-08-15,Almaty,Milk,261.0
+2020-08-15,Almaty,Oil (sunflower),478.0
+2020-08-15,Kostanay,Potatoes,106.0
+2020-08-15,Kostanay,Meat (beef),1811.0
+2020-08-15,Kostanay,Milk,165.0
+2020-08-15,Aktau,Potatoes,171.0
+2020-08-15,Aktau,Wheat flour (first grade),240.0
+2020-08-15,Aktau,Meat (beef),1870.0
+2020-08-15,Aktau,Oil (sunflower),493.0
+2020-09-15,Nur-Sultan,Potatoes,94.0
+2020-09-15,Nur-Sultan,Wheat flour (first grade),256.0
+2020-09-15,Nur-Sultan,Meat (beef),2192.0
+2020-09-15,Nur-Sultan,Oil (sunflower),497.0
+2020-09-15,Almaty,Potatoes,93.0
+2020-09-15,Almaty,Meat (beef),2129.0
+2020-09-15,Almaty,Milk,261.0
+2020-09-15,Almaty,Oil (sunflower),478.0
+2020-09-15,Kostanay,Potatoes,92.0
+2020-09-15,Kostanay,Meat (beef),1834.0
+2020-09-15,Kostanay,Milk,165.0
+2020-09-15,Aktau,Potatoes,158.0
+2020-09-15,Aktau,Wheat flour (first grade),237.0
+2020-09-15,Aktau,Meat (beef),1870.0
+2020-10-15,Nur-Sultan,Potatoes,112.0
+2020-10-15,Nur-Sultan,Meat (beef),2196.0
+2020-10-15,Nur-Sultan,Oil (sunflower),517.0
+2020-10-15,Almaty,Potatoes,98.0
+2020-10-15,Almaty,Meat (beef),2129.0
+2020-10-15,Almaty,Milk,266.0
+2020-10-15,Kostanay,Potatoes,93.0
+2020-10-15,Kostanay,Wheat flour (first grade),159.0
+2020-10-15,Kostanay,Meat (beef),1834.0
+2020-10-15,Kostanay,Milk,165.0
+2020-10-15,Kostanay,Oil (sunflower),442.0
+2020-10-15,Aktau,Potatoes,152.0
+2020-10-15,Aktau,Wheat flour (first grade),241.0
+2020-10-15,Aktau,Meat (beef),1870.0
+2020-11-15,Nur-Sultan,Potatoes,124.0
+2020-11-15,Nur-Sultan,Meat (beef),2196.0
+2020-11-15,Nur-Sultan,Oil (sunflower),547.0
+2020-11-15,Almaty,Potatoes,110.0
+2020-11-15,Almaty,Meat (beef),2141.0
+2020-11-15,Almaty,Milk,268.0
+2020-11-15,Kostanay,Potatoes,104.0
+2020-11-15,Kostanay,Meat (beef),1834.0
+2020-11-15,Kostanay,Milk,166.0
+2020-11-15,Kostanay,Oil (sunflower),514.0
+2020-11-15,Aktau,Potatoes,147.0
+2020-11-15,Aktau,Wheat flour (first grade),241.0
+2020-11-15,Aktau,Meat (beef),1875.0
